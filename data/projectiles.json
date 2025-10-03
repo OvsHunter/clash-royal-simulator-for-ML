@@ -1,0 +1,738 @@
+{
+  "FireballSpell": {
+    "speed": 6.0,
+    "dmg": 325,
+    "radius": 2.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 1000
+  },
+  "KingProjectile": {
+    "speed": 10.0,
+    "dmg": 50,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "ArcherArrow": {
+    "speed": 6.0,
+    "dmg": 42,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "TowerPrincessProjectile": {
+    "speed": 6.0,
+    "dmg": 50,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "ArrowsSpell": {
+    "speed": 11.0,
+    "dmg": 48,
+    "radius": 1.4,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "ArrowsSpellDeco": {
+    "speed": 11.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "TowerCannonball": {
+    "speed": 10.0,
+    "dmg": 83,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "MinionSpit": {
+    "speed": 10.0,
+    "dmg": 46,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "MortarProjectile": {
+    "speed": 3.0,
+    "dmg": 104,
+    "radius": 2.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "WitchProjectile": {
+    "speed": 6.0,
+    "dmg": 84,
+    "radius": 1.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "BombSkeletonProjectile": {
+    "speed": 4.0,
+    "dmg": 87,
+    "radius": 1.5,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "BombTowerProjectile": {
+    "speed": 5.0,
+    "dmg": 105,
+    "radius": 1.5,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "RocketSpell": {
+    "speed": 3.5,
+    "dmg": 700,
+    "radius": 2.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 1800
+  },
+  "GoblinBarrelSpell": {
+    "speed": 4.0,
+    "dmg": 0,
+    "radius": 1.5,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "MusketeerProjectile": {
+    "speed": 10.0,
+    "dmg": 103,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "BabyDragonProjectile": {
+    "speed": 5.0,
+    "dmg": 100,
+    "radius": 1.2,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "chr_wizardProjectile": {
+    "speed": 6.0,
+    "dmg": 133,
+    "radius": 1.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "xbow_projectile": {
+    "speed": 14.0,
+    "dmg": 26,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "LighningSpell": {
+    "speed": 5.0,
+    "dmg": 660,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "SpearGoblinProjectile": {
+    "speed": 5.0,
+    "dmg": 32,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "ice_wizardProjectile": {
+    "speed": 7.0,
+    "dmg": 75,
+    "radius": 1.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "RoyalGiantProjectile": {
+    "speed": 10.0,
+    "dmg": 120,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "PrincessProjectile": {
+    "speed": 6.0,
+    "dmg": 140,
+    "radius": 2.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "PrincessProjectileDeco": {
+    "speed": 6.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "LavaHoundProjectile": {
+    "speed": 4.0,
+    "dmg": 45,
+    "radius": 0.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "LavaPupProjectile": {
+    "speed": 5.0,
+    "dmg": 75,
+    "radius": 0.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "FireSpiritsProjectile": {
+    "speed": 4.0,
+    "dmg": 81,
+    "radius": 2.3,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "ZapMachineProjectile": {
+    "speed": 14.0,
+    "dmg": 1100,
+    "radius": 1.8,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "SneakyArcherArrow": {
+    "speed": 9.0,
+    "dmg": 65,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "BowlerProjectile": {
+    "speed": 1.7,
+    "dmg": 180,
+    "radius": 1.8,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 1000
+  },
+  "IceSpiritsProjectile": {
+    "speed": 4.0,
+    "dmg": 43,
+    "radius": 1.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "LogProjectile": {
+    "speed": 3.6,
+    "dmg": 0,
+    "radius": 1.95,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "LogProjectileRolling": {
+    "speed": 2.0,
+    "dmg": 240,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 700
+  },
+  "MegaMinionSpit": {
+    "speed": 10.0,
+    "dmg": 147,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "BlowdartGoblinProjectile": {
+    "speed": 8.0,
+    "dmg": 62,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "AxeManProjectile": {
+    "speed": 5.5,
+    "dmg": 106,
+    "radius": 1.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "BatProjectile": {
+    "speed": 20.0,
+    "dmg": 32,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "GunnerProjectile": {
+    "speed": 10.0,
+    "dmg": 220,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "MovingCannonProjectile": {
+    "speed": 10.0,
+    "dmg": 133,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "DartBarrellProjectile": {
+    "speed": 8.0,
+    "dmg": 81,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "MegaKnightAppear": {
+    "speed": 10.0,
+    "dmg": 355,
+    "radius": 2.2,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 1000
+  },
+  "BarbLogProjectile": {
+    "speed": 3.6,
+    "dmg": 0,
+    "radius": 1.3,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "BarbLogProjectileRolling": {
+    "speed": 2.0,
+    "dmg": 151,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "EliteArcherArrow": {
+    "speed": 10.0,
+    "dmg": 111,
+    "radius": 0.25,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "HunterProjectile": {
+    "speed": 5.5,
+    "dmg": 53,
+    "radius": 0.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "ZapSpiritProjectile": {
+    "speed": 8.0,
+    "dmg": 120,
+    "radius": 0.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "MegaCannonProjectile": {
+    "speed": 7.0,
+    "dmg": 480,
+    "radius": 1.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 750
+  },
+  "CaptureTowerProjectile": {
+    "speed": 6.0,
+    "dmg": 50,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "RascalGirlProjectile": {
+    "speed": 8.0,
+    "dmg": 52,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "SnowballSpell": {
+    "speed": 8.0,
+    "dmg": 75,
+    "radius": 2.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 1800
+  },
+  "RamRiderBola": {
+    "speed": 6.0,
+    "dmg": 86,
+    "radius": 0.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "ElectroDragonProjectile": {
+    "speed": 20.0,
+    "dmg": 120,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "MortarMultiProjectile": {
+    "speed": 3.0,
+    "dmg": 104,
+    "radius": 2.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "MonkPushback": {
+    "speed": 8.0,
+    "dmg": 1,
+    "radius": 1.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 1800
+  },
+  "PhoenixFireball": {
+    "speed": 6.0,
+    "dmg": 135,
+    "radius": 2.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 2000
+  },
+  "SuperEliteArcherArrow": {
+    "speed": 10.0,
+    "dmg": 1,
+    "radius": 0.25,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "GoblinProjectile": {
+    "speed": 1.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "GoblinMorphProjectile": {
+    "speed": 3.5,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "BlowdartGoblinProjectileParty": {
+    "speed": 8.0,
+    "dmg": 109,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "SpearGoblinPartyProjectile": {
+    "speed": 5.0,
+    "dmg": 67,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "AirBowProjectile": {
+    "speed": 14.0,
+    "dmg": 68,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "GoblinBarrel": {
+    "speed": 4.0,
+    "dmg": 0,
+    "radius": 1.5,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "FireWallProjectile": {
+    "speed": 6.0,
+    "dmg": 120,
+    "radius": 2.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 500
+  },
+  "FireWallMovingProjectile": {
+    "speed": 6.0,
+    "dmg": 120,
+    "radius": 2.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 500
+  },
+  "FishermanProjectile": {
+    "speed": 8.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "WallbreakerProjectile": {
+    "speed": 10.0,
+    "dmg": 245,
+    "radius": 1.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "BalloonProjectile": {
+    "speed": 10.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "ThrowBombProjectile": {
+    "speed": 10.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "ThrowBombProjectile2": {
+    "speed": 10.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "CWTXbowProjectile": {
+    "speed": 14.0,
+    "dmg": 12,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "ClanWarsSpawnFlareProjectile": {
+    "speed": 4.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "FirecrackerProjectile": {
+    "speed": 4.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "FirecrackerExplosion": {
+    "speed": 5.5,
+    "dmg": 25,
+    "radius": 0.4,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "ArcherQueenArrow": {
+    "speed": 8.0,
+    "dmg": 225,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "SuperWitchProjectile": {
+    "speed": 6.0,
+    "dmg": 0,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "SuperArcherChargeArrow": {
+    "speed": 4.0,
+    "dmg": 0,
+    "radius": 0.25,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "HealSpiritProjectile": {
+    "speed": 4.0,
+    "dmg": 52,
+    "radius": 1.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "FireballSpellRocketMan": {
+    "speed": 6.0,
+    "dmg": 325,
+    "radius": 2.5,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 1800
+  },
+  "VoodooProjectile": {
+    "speed": 6.0,
+    "dmg": 110,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "RoyalDeliveryProjectile": {
+    "speed": 50.0,
+    "dmg": 171,
+    "radius": 3.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "SkeletonDragonProjectile": {
+    "speed": 5.0,
+    "dmg": 63,
+    "radius": 0.8,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "SuperMiniPekkaHit": {
+    "speed": 30.0,
+    "dmg": 99999,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "ElectroSpiritProjectile": {
+    "speed": 20.0,
+    "dmg": 39,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "BarbarianLauncherProjectile": {
+    "speed": 3.0,
+    "dmg": 1,
+    "radius": 2.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "ArcherQueenArrow_Chess": {
+    "speed": 8.0,
+    "dmg": 88,
+    "radius": 0.0,
+    "aoe_to_air": false,
+    "aoe_to_ground": false,
+    "pushback": 0
+  },
+  "EliteArcherArrow_Chess": {
+    "speed": 10.0,
+    "dmg": 134,
+    "radius": 0.25,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "BombTowerProjectile_Chess": {
+    "speed": 5.0,
+    "dmg": 222,
+    "radius": 1.5,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "MysteryBuff_WitchProjectile": {
+    "speed": 6.0,
+    "dmg": 84,
+    "radius": 1.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  },
+  "MysteryBuff_BombSkeletonProjectile": {
+    "speed": 4.0,
+    "dmg": 87,
+    "radius": 1.5,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 1000
+  },
+  "MysteryBuff_BombTowerProjectile": {
+    "speed": 5.0,
+    "dmg": 105,
+    "radius": 1.5,
+    "aoe_to_air": false,
+    "aoe_to_ground": true,
+    "pushback": 1000
+  },
+  "MysteryBuff_SkeletonDragonProjectile": {
+    "speed": 5.0,
+    "dmg": 63,
+    "radius": 0.8,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 1000
+  },
+  "MysteryBuff_AxeManProjectile": {
+    "speed": 5.5,
+    "dmg": 106,
+    "radius": 1.0,
+    "aoe_to_air": true,
+    "aoe_to_ground": true,
+    "pushback": 0
+  }
+}
