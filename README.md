@@ -34,6 +34,8 @@ Training/evaluation scripts started (CPU & GPU support).
 
 GUI with Tkinter for running matches and tracking results.
 
+See [`docs/training_reward_guidelines.md`](docs/training_reward_guidelines.md) for practical reward shaping, state encoding, and hyperparameter defaults when training bots on top of the simulator.
+
 Assets
 
 Game images (fight_image.png, arena.png) prepared.
