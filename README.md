@@ -82,4 +82,4 @@ Replay system for matches.
 
 Integration with YOLO / Roboflow for troop detection (vision AI).
 
-Long-term: connect to a 1:1 Clash Royale clone made in another engine (e.g., Roblox or Unity) for cross-testing AI.
+Long-term: connect to a 1:1 Clash Royale
