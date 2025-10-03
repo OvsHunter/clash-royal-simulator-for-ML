@@ -1,0 +1,2057 @@
+[
+  {
+    "name": "Archer Queen",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Archer_Queen",
+    "cost": 5.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Archers",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Archers",
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Baby Dragon",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Baby_Dragon",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_swarm",
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "kite_over_river",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Balloon",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Balloon",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "mini_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "pair_with_support",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "bridge_blocker",
+      "deploy_at_bridge_for_pressure",
+      "kite_over_river"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Bandit",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bandit",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "support"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Barbarians",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Barbarians",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "swarm_troop"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target"
+    ],
+    "placement_hints": [
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Bats",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bats",
+    "cost": 2.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "swarm_troop"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river",
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Battle Healer",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Battle_Healer",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [
+      "bridge_blocker"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Battle Ram",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Battle_Ram",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "burst_dps",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "melts_tanks"
+    ],
+    "synergy_tags": [
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Bomber",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bomber",
+    "cost": 2.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Bowler",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bowler",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank",
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "bridge_blocker",
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Cannon Cart",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Cannon_Cart",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Dark Prince",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Dark_Prince",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Dart Goblin",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Dart_Goblin",
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Electro Dragon",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Dragon",
+    "cost": 5.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Electro Giant",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Giant",
+    "cost": 7.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Electro Spirit",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Spirit",
+    "cost": 1.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Electro Wizard",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Wizard",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Elite Barbarians",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Elite_Barbarians",
+    "cost": 6.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "support"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Elixir Golem",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Elixir_Golem",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "burst_dps",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "melts_tanks"
+    ],
+    "synergy_tags": [
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Executioner",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Executioner",
+    "cost": 5.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Fire Spirit",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Fire_Spirit",
+    "cost": 1.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Firecracker",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Firecracker",
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Fisherman",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Fisherman",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "support"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Flying Machine",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Flying_Machine",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Giant",
+    "wiki_url": null,
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Giant Skeleton",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Giant_Skeleton",
+    "cost": 6.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Goblin Gang",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Gang",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target"
+    ],
+    "placement_hints": [
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Goblin Giant",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Giant",
+    "cost": 6.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Goblins",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblins",
+    "cost": 2.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target"
+    ],
+    "placement_hints": [
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Golden Knight",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Golden_Knight",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Golem",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Golem",
+    "cost": 8.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Guards",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Guards",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target"
+    ],
+    "placement_hints": [
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Hog Rider",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Hog_Rider",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "bridge_blocker",
+      "deploy_at_bridge_for_pressure"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Hunter",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Hunter",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Ice Golem",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Ice_Golem",
+    "cost": 2.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Ice Spirit",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Ice_Spirit",
+    "cost": 1.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Ice Wizard",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Ice_Wizard",
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Inferno Dragon",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Inferno_Dragon",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Knight",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Knight",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Lava Hound",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Lava_Hound",
+    "cost": 7.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "frontline_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "pair_with_support",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "kite_over_river",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Lumberjack",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Lumberjack",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "burst_dps"
+    ],
+    "counter_tags": [
+      "melts_tanks"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Magic Archer",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Magic_Archer",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Mega Knight",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mega_Knight",
+    "cost": 7.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "clears_support_swarm",
+      "enable_support_push",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "lead_lane_push",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Mega Minion",
+    "wiki_url": null,
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Mighty Miner",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mighty_Miner",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Miner",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Miner",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Mini P.E.K.K.A",
+    "wiki_url": null,
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Minion Horde",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Minion_Horde",
+    "cost": 5.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "swarm_troop"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river",
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Minions",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Minions",
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river",
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Monk",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Monk",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [
+      "bridge_blocker"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Mother Witch",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mother_Witch",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Musketeer",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Musketeer",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Night Witch",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Night_Witch",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "support"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "P.E.K.K.A",
+    "wiki_url": null,
+    "cost": 7.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Phoenix",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Phoenix",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "burst_dps"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "melts_tanks"
+    ],
+    "synergy_tags": [
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Prince",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Prince",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Princess",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Princess",
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Raging Prince",
+    "wiki_url": null,
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [
+      "bridge_blocker"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Ram Rider",
+    "wiki_url": null,
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Rascals",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Rascals",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [
+      "bridge_blocker"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Royal Ghost",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Ghost",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Royal Giant",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Giant",
+    "cost": 6.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "ranged_support",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "pair_with_support",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "lead_lane_push",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Royal Hogs",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Hogs",
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "squad_troop",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target",
+      "pair_with_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Royal Recruits",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Recruits",
+    "cost": 7.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "swarm_troop"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target"
+    ],
+    "placement_hints": [
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Santa Hog Rider",
+    "wiki_url": null,
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [
+      "bridge_blocker"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Skeleton Army",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_Army",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "swarm_troop"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target"
+    ],
+    "placement_hints": [
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Skeleton Barrel",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_Barrel",
+    "cost": 3.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "pair_with_support",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "deploy_at_bridge_for_pressure",
+      "kite_over_river"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Skeleton Dragons",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_Dragons",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Skeleton King",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_King",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Skeletons",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeletons",
+    "cost": 1.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target"
+    ],
+    "placement_hints": [
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Sparky",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Sparky",
+    "cost": 6.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank",
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "bridge_blocker",
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Spear Goblins",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Spear_Goblins",
+    "cost": 2.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank",
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Super Archers",
+    "wiki_url": null,
+    "cost": 3.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Super Ice Golem",
+    "wiki_url": null,
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Super Lava Hound",
+    "wiki_url": null,
+    "cost": 8.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": true,
+    "primary_roles": [
+      "air_unit",
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push",
+      "requires_air_support"
+    ],
+    "placement_hints": [
+      "kite_over_river",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Super Magic Archer",
+    "wiki_url": null,
+    "cost": 5.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Super Mini P.E.K.K.A",
+    "wiki_url": null,
+    "cost": 5.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "mini_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [],
+    "placement_hints": [
+      "bridge_blocker"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Super Witch",
+    "wiki_url": null,
+    "cost": 6.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Terry",
+    "wiki_url": null,
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank"
+    ],
+    "counter_tags": [
+      "flex_counter"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Three Musketeers",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Three_Musketeers",
+    "cost": 9.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank",
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Valkyrie",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Valkyrie",
+    "cost": 4.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "frontline_tank",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "absorb_tower_shots",
+      "clears_support_swarm",
+      "enable_support_push"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "lead_lane_push"
+    ],
+    "elixir_profile": "standard"
+  },
+  {
+    "name": "Wall Breakers",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Wall_Breakers",
+    "cost": 2.0,
+    "targets": [
+      "ground"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage",
+      "win_condition"
+    ],
+    "counter_tags": [
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "pair_with_support",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "deploy_at_bridge_for_pressure",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "cycle"
+  },
+  {
+    "name": "Witch",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Witch",
+    "cost": 5.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Wizard",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Wizard",
+    "cost": 5.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "splash_damage"
+    ],
+    "counter_tags": [
+      "counters_air_threats",
+      "counters_ground_swarm"
+    ],
+    "synergy_tags": [
+      "clears_support_swarm",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "defend_from_safe_tiles",
+      "place_behind_tank"
+    ],
+    "elixir_profile": "heavy"
+  },
+  {
+    "name": "Zappies",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Zappies",
+    "cost": 4.0,
+    "targets": [
+      "ground",
+      "air"
+    ],
+    "flying": false,
+    "primary_roles": [
+      "ranged_support",
+      "squad_troop"
+    ],
+    "counter_tags": [
+      "counters_air_threats"
+    ],
+    "synergy_tags": [
+      "overwhelm_single_target",
+      "protects_from_distance"
+    ],
+    "placement_hints": [
+      "place_behind_tank",
+      "split_lane_pressure"
+    ],
+    "elixir_profile": "standard"
+  }
+]
