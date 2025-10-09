@@ -1,0 +1,110 @@
+{
+  "id": null,
+  "name": "Lava Hound",
+  "role": "Win Condition - Building Targeting (Air)",
+  "placement_strategy": "place behind king tower or at bridge when elixir > 8",
+  "best_synergies": [],
+  "common_counters": [
+    "Air-targeting buildings (Tesla/Inferno)",
+    "Long-range air DPS (Musketeer/Archers)",
+    "Swarm or stun to delay hits"
+  ],
+  "attack_plan": [
+    "tower pressure",
+    "bridge defense"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.4,
+    "cycle_priority": 0.7,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": null,
+    "hitpoints": 3150,
+    "damage": 0,
+    "hit_speed": 1300,
+    "speed": 45,
+    "range": 3500,
+    "targets_ground": true,
+    "targets_air": true,
+    "target_only_buildings": true,
+    "projectile": "LavaHoundProjectile",
+    "projectile_speed": 400,
+    "projectile_radius": null,
+    "projectile_data": {
+      "name": "LavaHoundProjectile",
+      "rarity": "Legendary",
+      "speed": 400,
+      "homing": true,
+      "hit_effect_at_projectile": false,
+      "damage": 45,
+      "pushback_all": false,
+      "aoe_to_air": true,
+      "aoe_to_ground": true,
+      "only_enemies": true,
+      "only_own_troops": false,
+      "gravity": 250,
+      "spawn_const_priority": false,
+      "apply_buff_before_damage": false,
+      "use360_frames": false,
+      "spawn_axis_x": false,
+      "spawn_axis_y": false,
+      "height_from_target_radius": false,
+      "target_to_edge": false,
+      "shakes_targets": false,
+      "drag_back_as_attractor": false,
+      "check_collisions": false,
+      "hide_when_delayed": false,
+      "damage_per_level": [
+        45,
+        49,
+        54,
+        59,
+        65,
+        72,
+        79,
+        86,
+        95,
+        104,
+        115
+      ],
+      "dps": 112,
+      "dps_per_level": [
+        112,
+        123,
+        135,
+        148,
+        163,
+        179,
+        197,
+        216,
+        237,
+        260,
+        286
+      ]
+    },
+    "per_level": {
+      "hitpoints": [
+        3150,
+        3465,
+        3811,
+        4189,
+        4599,
+        5040,
+        5544,
+        6079,
+        6678,
+        7339,
+        8064
+      ],
+      "damage": null,
+      "dps": null
+    }
+  }
+}

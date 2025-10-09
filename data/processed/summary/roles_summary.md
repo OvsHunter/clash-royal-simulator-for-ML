@@ -1,0 +1,24 @@
+| role | count |
+| --- | --- |
+| Champion - Dash DPS | 1 |
+| Champion - Defensive Reflection | 1 |
+| Champion - Long-Range Burst DPS | 1 |
+| Champion - Melee Tank Drill | 1 |
+| Champion - Swarm Amplifier | 1 |
+| Defensive Building / Anti-Air | 2 |
+| Defensive Building / Ground Pull | 3 |
+| Melee DPS / Assassin | 12 |
+| Melee Tank / Bridge Pressure | 3 |
+| Ranged Support / Anti-Air | 6 |
+| Siege Building / Win Condition | 1 |
+| Spawner Building | 3 |
+| Spell - Area Control | 1 |
+| Spell - Buff / Debuff | 7 |
+| Spell - Summon | 1 |
+| Splash Control | 17 |
+| Support / Healer | 1 |
+| Support / Utility | 12 |
+| Swarm Cycle Unit | 5 |
+| Unknown Role | 18 |
+| Win Condition - Building Targeting (Air) | 3 |
+| Win Condition - Building Targeting (Ground) | 10 |

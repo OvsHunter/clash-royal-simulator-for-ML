@@ -1,0 +1,66 @@
+{
+  "id": null,
+  "name": "Golden Knight",
+  "role": "Champion - Dash DPS",
+  "placement_strategy": "deploy behind tank or in safe tiles to support pushes",
+  "best_synergies": [],
+  "common_counters": [
+    "Cheap swarms to stop dash lanes",
+    "Reset/knockback effects",
+    "Kite into defending buildings"
+  ],
+  "attack_plan": [
+    "cycle value"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.45,
+    "defense_weight": 0.5,
+    "cycle_priority": 0.7,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": null,
+    "hitpoints": 1800,
+    "damage": 160,
+    "hit_speed": 900,
+    "speed": 60,
+    "range": 1200,
+    "targets_ground": true,
+    "targets_air": false,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        1800,
+        1980,
+        2178,
+        2394,
+        2628,
+        2880,
+        3168,
+        3474,
+        3816
+      ],
+      "damage": [
+        160,
+        176,
+        193,
+        212,
+        233,
+        256,
+        281,
+        308,
+        339
+      ],
+      "dps": null
+    }
+  }
+}

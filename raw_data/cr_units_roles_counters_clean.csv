@@ -1,0 +1,117 @@
+Name,Type,Role,Counters
+Knight,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Archers,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Goblins,Troop,Swarm / Quick DPS,Valkyrie; Wizard; Arrows; Bomber
+Giant,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+P.E.K.K.A,Troop,Heavy Tank Killer,Inferno Tower/Dragon; High DPS; Kite with buildings
+Minions,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Balloon,Troop,Win Condition (Air Tower Damage),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions; Musketeer; Tesla; Electro Dragon; Archers"
+Witch,Troop,Splash Support + Summoner,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Barbarians,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Golem,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Skeletons,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Valkyrie,Troop,Splash Melee / Ground Control,Snipe with ranged units; Fireball/Lightning; Air units out of reach; Air units; Kiting; Crowd control
+Skeleton Army,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Bomber,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Musketeer,Troop,Long-Range Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers
+Baby Dragon,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Prince,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Wizard,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Mini P.E.K.K.A,Troop,Single-Target DPS / Tank Killer,Inferno Tower/Dragon; High DPS; Kite with buildings
+Spear Goblins,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Giant Skeleton,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Hog Rider,Troop,Win Condition (Fast Building-Targeting),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Minion Horde,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Ice Wizard,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Royal Giant,Troop,Win Condition (Tower Damage),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Guards,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Princess,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Dark Prince,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Three Musketeers,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Lava Hound,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Ice Spirit,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Fire Spirit,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Miner,Troop,Win Condition (Chip Control),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Sparky,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Bowler,Troop,Tank / Frontliner,Inferno Tower/Dragon; High DPS; Kite with buildings
+Lumberjack,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Battle Ram,Troop,Win Condition (Tower Damage),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Inferno Dragon,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Ice Golem,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Mega Minion,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Dart Goblin,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Goblin Gang,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Electro Wizard,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Elite Barbarians,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Hunter,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Executioner,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Bandit,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Royal Recruits,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Night Witch,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Bats,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Royal Ghost,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Ram Rider,Troop,Win Condition (Tower Damage),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Zappies,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Rascals,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Cannon Cart,Troop,Defensive or Siege Building,Lightning; Rocket; Tank to soak hits
+Mega Knight,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Skeleton Barrel,Troop,Swarm / Defensive Counter,Valkyrie; Wizard; Arrows; Bomber; Lightning; Rocket; Tank to soak hits
+Flying Machine,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Wall Breakers,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Royal Hogs,Troop,Win Condition (Tower Damage),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Goblin Giant,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Fisherman,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Magic Archer,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Electro Dragon,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Firecracker,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Mighty Miner,Troop,Win Condition (Tower Damage),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Super Witch,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Elixir Golem,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Battle Healer,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Skeleton King,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Super Lava Hound,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Super Magic Archer,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Archer Queen,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Santa Hog Rider,Troop,Win Condition (Tower Damage),"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Golden Knight,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Super Ice Golem,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Monk,Troop,Tank / Frontliner,Inferno Tower/Dragon; High DPS; Kite with buildings
+Super Archers,Troop,Ranged Support / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Skeleton Dragons,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Terry,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Super Mini P.E.K.K.A,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Mother Witch,Troop,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Electro Spirit,Troop,Support / Versatile,General elixir efficiency and placement tactics
+Electro Giant,Troop,Tank / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions"
+Raging Prince,Troop,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+Phoenix,Troop,Air Support / Ranged,Musketeer; Tesla; Electro Dragon; Archers; Swarm; Fireball; Bridge pressure
+Wizard,Building,Splash Ranged Support,Snipe with ranged units; Fireball/Lightning; Air units out of reach
+Cannon,Building,Defensive Building / Ground Pull,Lightning; Rocket; Tank to soak hits
+Goblin Hut,Building,Spawner Building,General elixir efficiency and placement tactics
+Mortar,Building,Siege Building / Chip Control,Lightning; Rocket; Tank to soak hits
+Inferno Tower,Building,Defensive Building / Tank Killer,Inferno Tower/Dragon; High DPS; Kite with buildings; Lightning; Rocket; Tank to soak hits
+Bomb Tower,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+Barbarian Hut,Building,Spawner Building,General elixir efficiency and placement tactics
+Tesla,Building,Defensive Building / Anti-Air,Musketeer; Tesla; Electro Dragon; Archers; Lightning; Rocket; Tank to soak hits
+Elixir Collector,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+X-Bow,Building,Siege Building / Win Condition,"Inferno Tower/Dragon; Mini P.E.K.K.A / P.E.K.K.A; Buildings (Tombstone, Cannon); Swarm distractions; Lightning; Rocket; Tank to soak hits"
+Tombstone,Building,Spawner Building,General elixir efficiency and placement tactics
+Bomb,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+DummyKingTower,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+Goblin Cage,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+HeistStorage,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+HeistStorage3,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+Knight,Building,Melee Tank / DPS,Inferno Tower/Dragon; High DPS; Kite with buildings; Air units; Kiting; Crowd control
+CloneBottle,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+DarkElixir,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+DarkElixirCollector,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+KingTowerClanBoatDefender,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+Mortar_Owned,Building,Siege Building,Lightning; Rocket; Tank to soak hits
+Goblin Drill,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+ShieldBottle,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+Boost,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+Cannon Cart,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+RageBottle,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+RageBottle_Battleground,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+CloneBottle_Battleground,Building,Defensive Building,Lightning; Rocket; Tank to soak hits
+Sparky,Building,Defensive Building,Lightning; Rocket; Tank to soak hits

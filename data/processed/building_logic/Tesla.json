@@ -1,0 +1,86 @@
+{
+  "id": 27000006,
+  "name": "Tesla",
+  "role": "Defensive Building / Anti-Air",
+  "placement_strategy": "place in middle tiles for optimal pull coverage",
+  "best_synergies": [],
+  "common_counters": [
+    "Spell removal (Fireball/Lightning)",
+    "Earthquake pressure",
+    "Overwhelm with split attacks"
+  ],
+  "attack_plan": [
+    "bridge defense"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.4,
+    "cycle_priority": 0.5,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": 4,
+    "hitpoints": 450,
+    "damage": 90,
+    "hit_speed": 1100,
+    "speed": 0,
+    "range": 5500,
+    "targets_ground": true,
+    "targets_air": true,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        450,
+        495,
+        544,
+        598,
+        657,
+        720,
+        792,
+        868,
+        954,
+        1048,
+        1152,
+        1264,
+        1390,
+        1525,
+        1674,
+        1840,
+        2025,
+        2227,
+        2452
+      ],
+      "damage": [
+        90,
+        99,
+        108,
+        119,
+        131,
+        144,
+        158,
+        173,
+        190,
+        209,
+        230,
+        252,
+        278,
+        305,
+        334,
+        368,
+        405,
+        445,
+        490
+      ],
+      "dps": null
+    }
+  }
+}

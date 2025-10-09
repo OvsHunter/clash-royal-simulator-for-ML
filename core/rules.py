@@ -1,0 +1,35 @@
+# Global timing/flow constants
+
+# Simulation tick (seconds)
+TIME_STEP: float = 0.05  # 20 Hz
+
+# Match timing (seconds)
+REGULATION_TIME: float = 180.0
+OVERTIME_DURATION: float = 120.0
+TIEBREAK_DURATION: float = 60.0
+MATCH_TIME: float = REGULATION_TIME + OVERTIME_DURATION + TIEBREAK_DURATION
+
+# Elixir timing windows (seconds from match start)
+DOUBLE_ELIXIR_START: float = 120.0
+TRIPLE_ELIXIR_START: float = REGULATION_TIME + OVERTIME_DURATION
+OVERTIME_START: float = TRIPLE_ELIXIR_START
+
+# Movement / collision defaults
+DEFAULT_SMALL_RADIUS: float = 0.5
+DEFAULT_TANK_RADIUS: float = 1.2
+TANK_HP_THRESHOLD: float = 1800.0
+
+# Spell defaults
+DEFAULT_FIREBALL_DAMAGE: float = 325.0
+DEFAULT_FIREBALL_RADIUS: float = 2.5
+DEFAULT_FIREBALL_SPEED: float = 6.0
+
+DEFAULT_POISON_DURATION: float = 8.0
+DEFAULT_POISON_DPS: float = 75.0
+
+DEFAULT_RAGE_DURATION: float = 6.0
+DEFAULT_RAGE_SPEED_MULTIPLIER: float = 1.35
+DEFAULT_RAGE_LINGER: float = 0.4
+
+DEFAULT_ZAP_STUN: float = 0.5
+DEFAULT_ARROWS_PROJECTILE: str = "ArrowsSpell"

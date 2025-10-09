@@ -1,0 +1,68 @@
+{
+  "id": null,
+  "name": "Mighty Miner",
+  "role": "Champion - Melee Tank Drill",
+  "placement_strategy": "place behind king tower or at bridge when elixir > 8",
+  "best_synergies": [],
+  "common_counters": [
+    "Air units or swarms",
+    "Reset effects (Lightning/Fisherman)",
+    "Pull with buildings or Tombstone"
+  ],
+  "attack_plan": [
+    "tower pressure"
+  ],
+  "defense_usage": [
+    "Absorb hits for support troops"
+  ],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.45,
+    "defense_weight": 0.5,
+    "cycle_priority": 0.7,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": null,
+    "hitpoints": 2250,
+    "damage": 40,
+    "hit_speed": 400,
+    "speed": 60,
+    "range": 1600,
+    "targets_ground": true,
+    "targets_air": false,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        2250,
+        2475,
+        2722,
+        2992,
+        3285,
+        3600,
+        3960,
+        4342,
+        4770
+      ],
+      "damage": [
+        40,
+        44,
+        48,
+        53,
+        58,
+        64,
+        70,
+        77,
+        84
+      ],
+      "dps": null
+    }
+  }
+}

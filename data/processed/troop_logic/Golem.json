@@ -1,0 +1,77 @@
+{
+  "id": 26000009,
+  "name": "Golem",
+  "role": "Win Condition - Building Targeting (Ground)",
+  "placement_strategy": "place behind king tower or at bridge when elixir > 8",
+  "best_synergies": [],
+  "common_counters": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "attack_plan": [
+    "tower pressure",
+    "bridge defense"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.4,
+    "cycle_priority": 0.5,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": 8,
+    "hitpoints": 3200,
+    "damage": 195,
+    "hit_speed": 2500,
+    "speed": 45,
+    "range": 750,
+    "targets_ground": true,
+    "targets_air": true,
+    "target_only_buildings": true,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        3200,
+        3520,
+        3872,
+        4256,
+        4672,
+        5120,
+        5632,
+        6176,
+        6784,
+        7456,
+        8192,
+        8992,
+        9888,
+        10848
+      ],
+      "damage": [
+        195,
+        214,
+        235,
+        259,
+        284,
+        312,
+        343,
+        376,
+        413,
+        454,
+        499,
+        547,
+        602,
+        661
+      ],
+      "dps": null
+    }
+  }
+}

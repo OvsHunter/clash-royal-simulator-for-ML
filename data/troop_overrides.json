@@ -1,0 +1,85 @@
+{
+  "Prince": {
+    "charge": {
+      "windup_time": 1.6,
+      "speed_multiplier": 1.5,
+      "damage_multiplier": 2.0,
+      "reset_on_hit": true
+    }
+  },
+  "Dark Prince": {
+    "charge": {
+      "windup_time": 1.6,
+      "speed_multiplier": 1.5,
+      "damage_multiplier": 2.0,
+      "reset_on_hit": true
+    },
+    "splash_radius": 1.2
+  },
+  "Battle Ram": {
+    "charge": {
+      "windup_time": 1.0,
+      "speed_multiplier": 1.4,
+      "damage_multiplier": 2.4,
+      "reset_on_hit": true
+    },
+    "death_spawn": {
+      "units": [
+        {"name": "Barbarian", "count": 2, "level_offset": 0, "spread": 0.4}
+      ]
+    },
+    "targets": ["buildings"]
+  },
+  "Ram Rider": {
+    "charge": {
+      "windup_time": 1.2,
+      "speed_multiplier": 1.4,
+      "damage_multiplier": 2.0,
+      "reset_on_hit": true
+    },
+    "slow_effect": {
+      "duration": 2.5,
+      "speed_multiplier": 0.2
+    }
+  },
+  "Mega Knight": {
+    "spawn_effect": {
+      "damage": 350,
+      "radius": 2.5,
+      "stun": 0.0,
+      "knockback": 0.5
+    },
+    "splash_radius": 1.5
+  },
+  "Electro Wizard": {
+    "spawn_effect": {
+      "damage": 159,
+      "radius": 2.0,
+      "stun": 0.5
+    },
+    "attack_chain": {
+      "targets": 2,
+      "jump_radius": 5.0,
+      "stun": 0.2
+    }
+  },
+  "Electro Spirit": {
+    "chain": {
+      "targets": 9,
+      "jump_radius": 1.8,
+      "stun": 0.5,
+      "damage": 91
+    }
+  },
+  "Goblin Giant": {
+    "support_units": [
+      {"name": "Spear Goblin", "count": 2, "level_offset": 0, "spread": 0.5}
+    ]
+  },
+  "Wizard": {
+    "splash_radius": 2.5
+  },
+  "Valkyrie": {
+    "splash_radius": 2.0
+  }
+}

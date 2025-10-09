@@ -1,0 +1,70 @@
+{
+  "id": null,
+  "name": "Bandit",
+  "role": "Melee DPS / Assassin",
+  "placement_strategy": "deploy behind tank or in safe tiles to support pushes",
+  "best_synergies": [],
+  "common_counters": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "attack_plan": [
+    "cycle value"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.5,
+    "cycle_priority": 0.7,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": null,
+    "hitpoints": 750,
+    "damage": 160,
+    "hit_speed": 1000,
+    "speed": 90,
+    "range": 750,
+    "targets_ground": true,
+    "targets_air": false,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        750,
+        825,
+        907,
+        997,
+        1095,
+        1200,
+        1320,
+        1447,
+        1590,
+        1747,
+        1920
+      ],
+      "damage": [
+        160,
+        176,
+        193,
+        212,
+        233,
+        256,
+        281,
+        308,
+        339,
+        372,
+        409
+      ],
+      "dps": null
+    }
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "Knight": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Archers": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Bomber": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Skeletons": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Minions": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Spear Goblins": [
+    "Spell value (Fireball/Poison)",
+    "Assassins (Miner/Bandit)",
+    "Split-lane pressure"
+  ],
+  "Goblins": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Barbarians": [
+    "Small spells (Log/Arrows)",
+    "Splash damage troops",
+    "Force quick cycling"
+  ],
+  "Elite Barbarians": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Royal Giant": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Minion Horde": [
+    "Small spells (Log/Arrows)",
+    "Splash damage troops",
+    "Force quick cycling"
+  ],
+  "Fire Spirit": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Ice Spirit": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Bats": [
+    "Small spells (Log/Arrows)",
+    "Splash damage troops",
+    "Force quick cycling"
+  ],
+  "Royal Recruits": [
+    "Small spells (Log/Arrows)",
+    "Splash damage troops",
+    "Force quick cycling"
+  ],
+  "Skeleton Barrel": [
+    "Air-targeting buildings (Tesla/Inferno)",
+    "Long-range air DPS (Musketeer/Archers)",
+    "Swarm or stun to delay hits"
+  ],
+  "Goblin Gang": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Electro Spirit": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Skeleton Dragons": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Firecracker": [
+    "Spell value (Fireball/Poison)",
+    "Assassins (Miner/Bandit)",
+    "Split-lane pressure"
+  ],
+  "Rascals": [
+    "Kiting buildings",
+    "High DPS melee (Mini P.E.K.K.A)",
+    "Air units or swarms"
+  ],
+  "Berserker": [],
+  "Musketeer": [
+    "Spell value (Fireball/Poison)",
+    "Assassins (Miner/Bandit)",
+    "Split-lane pressure"
+  ],
+  "Mini P.E.K.K.A.": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Valkyrie": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Hog Rider": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Battle Ram": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Three Musketeers": [
+    "Spell value (Fireball/Poison)",
+    "Assassins (Miner/Bandit)",
+    "Split-lane pressure"
+  ],
+  "Wizard": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Dart Goblin": [
+    "Spell value (Fireball/Poison)",
+    "Assassins (Miner/Bandit)",
+    "Split-lane pressure"
+  ],
+  "Ice Golem": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Zappies": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Flying Machine": [
+    "Spell value (Fireball/Poison)",
+    "Assassins (Miner/Bandit)",
+    "Split-lane pressure"
+  ],
+  "Royal Hogs": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Heal Spirit": [],
+  "Battle Healer": [
+    "Burst damage to delete support",
+    "Crowd control (stuns/knockback)",
+    "Separate from tanks before engaging"
+  ],
+  "Goblin Demolisher": [],
+  "Elixir Golem": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Baby Dragon": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Witch": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Skeleton Army": [
+    "Small spells (Log/Arrows)",
+    "Splash damage troops",
+    "Force quick cycling"
+  ],
+  "Prince": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Dark Prince": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "P.E.K.K.A.": [
+    "Kiting buildings",
+    "High DPS melee (Mini P.E.K.K.A)",
+    "Air units or swarms"
+  ],
+  "Balloon": [
+    "Air-targeting buildings (Tesla/Inferno)",
+    "Long-range air DPS (Musketeer/Archers)",
+    "Swarm or stun to delay hits"
+  ],
+  "Giant Skeleton": [
+    "Kiting buildings",
+    "High DPS melee (Mini P.E.K.K.A)",
+    "Air units or swarms"
+  ],
+  "Golem": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Bowler": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Executioner": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Hunter": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Cannon Cart": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Guards": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Electro Dragon": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Wall Breakers": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Goblin Giant": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Rune Giant": [],
+  "Electro Giant": [
+    "Pull with defensive buildings",
+    "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+    "Cheap swarms for distraction"
+  ],
+  "Miner": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Princess": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Ice Wizard": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Lumberjack": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Night Witch": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Bandit": [
+    "Swarm distractions",
+    "Air units out of reach",
+    "Control placement (tornado/kiting)"
+  ],
+  "Magic Archer": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Royal Ghost": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Mega Knight": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Fisherman": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Mother Witch": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Electro Wizard": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "Inferno Dragon": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Lava Hound": [
+    "Air-targeting buildings (Tesla/Inferno)",
+    "Long-range air DPS (Musketeer/Archers)",
+    "Swarm or stun to delay hits"
+  ],
+  "Sparky": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Phoenix": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "Spirit Empress": [],
+  "Goblin Machine": [],
+  "Archer Queen": [
+    "Spell pressure (Fireball/Lightning)",
+    "Assassins or Miner on top",
+    "Reset/disable ability timing"
+  ],
+  "Golden Knight": [
+    "Cheap swarms to stop dash lanes",
+    "Reset/knockback effects",
+    "Kite into defending buildings"
+  ],
+  "Mighty Miner": [
+    "Air units or swarms",
+    "Reset effects (Lightning/Fisherman)",
+    "Pull with buildings or Tombstone"
+  ],
+  "Skeleton King": [
+    "Spell deny (Poison/Fireball)",
+    "Eliminate soul generators quickly",
+    "Bridge pressure to split resources"
+  ],
+  "Monk": [
+    "Wait out reflection window",
+    "High DPS ground units",
+    "Opposite-lane pressure"
+  ],
+  "Little Prince": [],
+  "Goblinstein": [],
+  "Boss Bandit": [],
+  "Arrows": [],
+  "Zap": [
+    "Reset effects / knockback",
+    "Disengage during buff window",
+    "Spell denial on key troops"
+  ],
+  "Fireball": [],
+  "Lightning": [
+    "Avoid stacking",
+    "Pressure opposite lane",
+    "Clean up with fast units"
+  ],
+  "Rocket": [],
+  "Rage": [
+    "Reset effects / knockback",
+    "Disengage during buff window",
+    "Spell denial on key troops"
+  ],
+  "Poison": [
+    "Reset effects / knockback",
+    "Disengage during buff window",
+    "Spell denial on key troops"
+  ],
+  "Graveyard": [
+    "Timed spells (Poison/Log)",
+    "Splash defenders",
+    "Pressure elsewhere to split elixir"
+  ],
+  "The Log": [],
+  "Tornado": [
+    "Reset effects / knockback",
+    "Disengage during buff window",
+    "Spell denial on key troops"
+  ],
+  "Clone": [
+    "Reset effects / knockback",
+    "Disengage during buff window",
+    "Spell denial on key troops"
+  ],
+  "Freeze": [
+    "Reset effects / knockback",
+    "Disengage during buff window",
+    "Spell denial on key troops"
+  ],
+  "Mirror": [],
+  "Earthquake": [
+    "Reset effects / knockback",
+    "Disengage during buff window",
+    "Spell denial on key troops"
+  ],
+  "Barbarian Barrel": [],
+  "Snowball": [],
+  "Goblin Barrel": [],
+  "Cannon": [
+    "Earthquake or Lightning",
+    "Air offense",
+    "Split pressure to drain lifetime"
+  ],
+  "Tesla": [
+    "Spell removal (Fireball/Lightning)",
+    "Earthquake pressure",
+    "Overwhelm with split attacks"
+  ],
+  "Inferno Tower": [
+    "Spell removal (Fireball/Lightning)",
+    "Earthquake pressure",
+    "Overwhelm with split attacks"
+  ],
+  "Bomb Tower": [
+    "Earthquake or Lightning",
+    "Air offense",
+    "Split pressure to drain lifetime"
+  ],
+  "Mortar": [
+    "Tank at the bridge",
+    "Spell pressure (Fireball/Rocket)",
+    "Earthquake or Miner to break anchor"
+  ],
+  "Goblin Hut": [
+    "Spell value (Poison/Fireball)",
+    "Opposite-lane pressure",
+    "Bridge blocks to soak spawns"
+  ],
+  "Furnace": [
+    "Earthquake or Lightning",
+    "Air offense",
+    "Split pressure to drain lifetime"
+  ],
+  "Barbarian Hut": [
+    "Spell value (Poison/Fireball)",
+    "Opposite-lane pressure",
+    "Bridge blocks to soak spawns"
+  ],
+  "Elixir Collector": [],
+  "Tombstone": [
+    "Spell value (Poison/Fireball)",
+    "Opposite-lane pressure",
+    "Bridge blocks to soak spawns"
+  ]
+}

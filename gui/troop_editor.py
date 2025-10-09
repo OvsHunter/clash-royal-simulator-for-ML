@@ -1,0 +1,1 @@
+# Troop editor placeholder

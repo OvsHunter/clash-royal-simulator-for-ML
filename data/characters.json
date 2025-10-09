@@ -1,0 +1,492 @@
+{
+  "Knight": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Archer": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Goblin": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Giant": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "P.E.K.K.A": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Minion": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Balloon": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Witch": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Skeleton": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Barbarian": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Golem": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Golemite": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Valkyrie": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Bomber": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Musketeer": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Baby Dragon": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Mini P.E.K.K.A": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Wizard": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Prince": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Spear Goblin": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Giant Skeleton": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Hog Rider": {
+    "rarity": "Champion",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Ice Wizard": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Royal Giant": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Princess": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Dark Prince": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Guard": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Lava Hound": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Lava Pups": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Rage Barbarian": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Ice Spirit": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Fire Spirit": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Miner": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Sparky": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Bowler": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Mega Minion": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Inferno Dragon": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Battle Ram": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Blowdart Goblin": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Electro Wizard": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Elite Barbarian": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Executioner": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Bandit": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Royal Ghost": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Zappies": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Hunter": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Night Witch": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Bat": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Royal Recruits": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Rascal Boy": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Cannon Cart": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Mega Knight": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Rascal Girl": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Royal Hogs": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Goblin Brawler": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Rider": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Electro Dragon": {
+    "rarity": "Epic",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Elixir Golem": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Elixir Golemite": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Elixir Blob": {
+    "rarity": "Rare",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Firecracker": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Mother Witch": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Cursed Hog": {
+    "rarity": "Champion",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Skeleton Dragons": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Electro Spirit": {
+    "rarity": "Common",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Super Lava Hound": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Monk": {
+    "rarity": "Champion",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "null": {
+    "rarity": null,
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Phoenix": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  },
+  "Phoenix Egg": {
+    "rarity": "Legendary",
+    "unlock_arena": null,
+    "mana_cost": 0,
+    "tribe": null,
+    "type": null
+  }
+}

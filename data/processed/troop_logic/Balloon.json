@@ -1,0 +1,77 @@
+{
+  "id": 26000006,
+  "name": "Balloon",
+  "role": "Win Condition - Building Targeting (Air)",
+  "placement_strategy": "place behind king tower or at bridge when elixir > 8",
+  "best_synergies": [],
+  "common_counters": [
+    "Air-targeting buildings (Tesla/Inferno)",
+    "Long-range air DPS (Musketeer/Archers)",
+    "Swarm or stun to delay hits"
+  ],
+  "attack_plan": [
+    "tower pressure",
+    "bridge defense"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.5,
+    "cycle_priority": 0.5,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": 5,
+    "hitpoints": 1050,
+    "damage": 400,
+    "hit_speed": 2000,
+    "speed": 60,
+    "range": 100,
+    "targets_ground": true,
+    "targets_air": false,
+    "target_only_buildings": true,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        1050,
+        1155,
+        1270,
+        1396,
+        1533,
+        1680,
+        1848,
+        2026,
+        2226,
+        2446,
+        2688,
+        2950,
+        3244,
+        3559
+      ],
+      "damage": [
+        400,
+        440,
+        484,
+        532,
+        584,
+        640,
+        704,
+        772,
+        848,
+        932,
+        1024,
+        1124,
+        1236,
+        1356
+      ],
+      "dps": null
+    }
+  }
+}

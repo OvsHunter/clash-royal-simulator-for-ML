@@ -1,0 +1,94 @@
+| Name | Type | Elixir | Role | Counters |
+| --- | --- | --- | --- | --- |
+| Archer Queen | Champion | 5.0 | Champion - Long-Range Burst DPS | `["Spell pressure (Fireball/Lightning)", "Assassins or Miner on top", "Reset/disable ability timing"]` |
+| Golden Knight | Champion | 4.0 | Champion - Dash DPS | `["Cheap swarms to stop dash lanes", "Reset/knockback effects", "Kite into defending buildings"]` |
+| Mighty Miner | Champion | 4.0 | Champion - Melee Tank Drill | `["Air units or swarms", "Reset effects (Lightning/Fisherman)", "Pull with buildings or Tombstone"]` |
+| Monk | Champion | 5.0 | Champion - Defensive Reflection | `["Wait out reflection window", "High DPS ground units", "Opposite-lane pressure"]` |
+| Skeleton King | Champion | 4.0 | Champion - Swarm Amplifier | `["Spell deny (Poison/Fireball)", "Eliminate soul generators quickly", "Bridge pressure to split resources"]` |
+| Archers | Troop | 3.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Baby Dragon | Troop | 4.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Balloon | Troop | 5.0 | Win Condition - Building Targeting (Air) | `["Air-targeting buildings (Tesla/Inferno)", "Long-range air DPS (Musketeer/Archers)", "Swarm or stun to delay hits"]` |
+| Bandit | Troop | 3.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Barbarians | Troop | 5.0 | Swarm Cycle Unit | `["Small spells (Log/Arrows)", "Splash damage troops", "Force quick cycling"]` |
+| Bats | Troop | 2.0 | Swarm Cycle Unit | `["Small spells (Log/Arrows)", "Splash damage troops", "Force quick cycling"]` |
+| Battle Healer | Troop | 4.0 | Support / Healer | `["Burst damage to delete support", "Crowd control (stuns/knockback)", "Separate from tanks before engaging"]` |
+| Battle Ram | Troop | 4.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Bomber | Troop | 2.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Bowler | Troop | 5.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Cannon Cart | Troop | 5.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Dark Prince | Troop | 4.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Dart Goblin | Troop | 3.0 | Ranged Support / Anti-Air | `["Spell value (Fireball/Poison)", "Assassins (Miner/Bandit)", "Split-lane pressure"]` |
+| Electro Dragon | Troop | 5.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Electro Giant | Troop | 7.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Electro Spirit | Troop | 1.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Electro Wizard | Troop | 4.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Elite Barbarians | Troop | 6.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Elixir Golem | Troop | 3.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Executioner | Troop | 5.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Fire Spirit | Troop | 1.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Firecracker | Troop | 3.0 | Ranged Support / Anti-Air | `["Spell value (Fireball/Poison)", "Assassins (Miner/Bandit)", "Split-lane pressure"]` |
+| Fisherman | Troop | 3.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Flying Machine | Troop | 4.0 | Ranged Support / Anti-Air | `["Spell value (Fireball/Poison)", "Assassins (Miner/Bandit)", "Split-lane pressure"]` |
+| Giant Skeleton | Troop | 6.0 | Melee Tank / Bridge Pressure | `["Kiting buildings", "High DPS melee (Mini P.E.K.K.A)", "Air units or swarms"]` |
+| Goblin Gang | Troop | 3.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Goblin Giant | Troop | 6.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Goblins | Troop | 2.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Golem | Troop | 8.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Guards | Troop | 3.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Hog Rider | Troop | 4.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Hunter | Troop | 4.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Ice Golem | Troop | 2.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Ice Spirit | Troop | 1.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Ice Wizard | Troop | 3.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Inferno Dragon | Troop | 4.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Knight | Troop | 3.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Lava Hound | Troop | 7.0 | Win Condition - Building Targeting (Air) | `["Air-targeting buildings (Tesla/Inferno)", "Long-range air DPS (Musketeer/Archers)", "Swarm or stun to delay hits"]` |
+| Lumberjack | Troop | 4.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Magic Archer | Troop | 4.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Mega Knight | Troop | 7.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Miner | Troop | 3.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Mini P.E.K.K.A. | Troop | 4.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Minion Horde | Troop | 5.0 | Swarm Cycle Unit | `["Small spells (Log/Arrows)", "Splash damage troops", "Force quick cycling"]` |
+| Minions | Troop | 3.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Mother Witch | Troop | 4.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Musketeer | Troop | 4.0 | Ranged Support / Anti-Air | `["Spell value (Fireball/Poison)", "Assassins (Miner/Bandit)", "Split-lane pressure"]` |
+| Night Witch | Troop | 4.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| P.E.K.K.A. | Troop | 7.0 | Melee Tank / Bridge Pressure | `["Kiting buildings", "High DPS melee (Mini P.E.K.K.A)", "Air units or swarms"]` |
+| Phoenix | Troop | 4.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Prince | Troop | 5.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Princess | Troop | 3.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Rascals | Troop | 5.0 | Melee Tank / Bridge Pressure | `["Kiting buildings", "High DPS melee (Mini P.E.K.K.A)", "Air units or swarms"]` |
+| Royal Ghost | Troop | 3.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Royal Giant | Troop | 6.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Royal Hogs | Troop | 5.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Royal Recruits | Troop | 7.0 | Swarm Cycle Unit | `["Small spells (Log/Arrows)", "Splash damage troops", "Force quick cycling"]` |
+| Skeleton Army | Troop | 3.0 | Swarm Cycle Unit | `["Small spells (Log/Arrows)", "Splash damage troops", "Force quick cycling"]` |
+| Skeleton Barrel | Troop | 3.0 | Win Condition - Building Targeting (Air) | `["Air-targeting buildings (Tesla/Inferno)", "Long-range air DPS (Musketeer/Archers)", "Swarm or stun to delay hits"]` |
+| Skeleton Dragons | Troop | 4.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Skeletons | Troop | 1.0 | Melee DPS / Assassin | `["Swarm distractions", "Air units out of reach", "Control placement (tornado/kiting)"]` |
+| Sparky | Troop | 6.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Spear Goblins | Troop | 2.0 | Ranged Support / Anti-Air | `["Spell value (Fireball/Poison)", "Assassins (Miner/Bandit)", "Split-lane pressure"]` |
+| Three Musketeers | Troop | 9.0 | Ranged Support / Anti-Air | `["Spell value (Fireball/Poison)", "Assassins (Miner/Bandit)", "Split-lane pressure"]` |
+| Valkyrie | Troop | 4.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Wall Breakers | Troop | 2.0 | Win Condition - Building Targeting (Ground) | `["Pull with defensive buildings", "High single-target DPS (Mini P.E.K.K.A/Infern0)", "Cheap swarms for distraction"]` |
+| Witch | Troop | 5.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Wizard | Troop | 5.0 | Splash Control | `["Snipe with ranged units", "Lightning/Fireball", "Spread deployments"]` |
+| Zappies | Troop | 4.0 | Support / Utility | `["Trade efficiently", "Spell chip when clumped", "Opposite lane pressure"]` |
+| Barbarian Hut | Building | 6.0 | Spawner Building | `["Spell value (Poison/Fireball)", "Opposite-lane pressure", "Bridge blocks to soak spawns"]` |
+| Bomb Tower | Building | 4.0 | Defensive Building / Ground Pull | `["Earthquake or Lightning", "Air offense", "Split pressure to drain lifetime"]` |
+| Cannon | Building | 3.0 | Defensive Building / Ground Pull | `["Earthquake or Lightning", "Air offense", "Split pressure to drain lifetime"]` |
+| Furnace | Building | 4.0 | Defensive Building / Ground Pull | `["Earthquake or Lightning", "Air offense", "Split pressure to drain lifetime"]` |
+| Goblin Hut | Building | 5.0 | Spawner Building | `["Spell value (Poison/Fireball)", "Opposite-lane pressure", "Bridge blocks to soak spawns"]` |
+| Inferno Tower | Building | 5.0 | Defensive Building / Anti-Air | `["Spell removal (Fireball/Lightning)", "Earthquake pressure", "Overwhelm with split attacks"]` |
+| Mortar | Building | 4.0 | Siege Building / Win Condition | `["Tank at the bridge", "Spell pressure (Fireball/Rocket)", "Earthquake or Miner to break anchor"]` |
+| Tesla | Building | 4.0 | Defensive Building / Anti-Air | `["Spell removal (Fireball/Lightning)", "Earthquake pressure", "Overwhelm with split attacks"]` |
+| Tombstone | Building | 3.0 | Spawner Building | `["Spell value (Poison/Fireball)", "Opposite-lane pressure", "Bridge blocks to soak spawns"]` |
+| Clone | Spell | 3.0 | Spell - Buff / Debuff | `["Reset effects / knockback", "Disengage during buff window", "Spell denial on key troops"]` |
+| Earthquake | Spell | 3.0 | Spell - Buff / Debuff | `["Reset effects / knockback", "Disengage during buff window", "Spell denial on key troops"]` |
+| Freeze | Spell | 4.0 | Spell - Buff / Debuff | `["Reset effects / knockback", "Disengage during buff window", "Spell denial on key troops"]` |
+| Graveyard | Spell | 5.0 | Spell - Summon | `["Timed spells (Poison/Log)", "Splash defenders", "Pressure elsewhere to split elixir"]` |
+| Lightning | Spell | 6.0 | Spell - Area Control | `["Avoid stacking", "Pressure opposite lane", "Clean up with fast units"]` |
+| Poison | Spell | 4.0 | Spell - Buff / Debuff | `["Reset effects / knockback", "Disengage during buff window", "Spell denial on key troops"]` |
+| Rage | Spell | 2.0 | Spell - Buff / Debuff | `["Reset effects / knockback", "Disengage during buff window", "Spell denial on key troops"]` |
+| Tornado | Spell | 3.0 | Spell - Buff / Debuff | `["Reset effects / knockback", "Disengage during buff window", "Spell denial on key troops"]` |
+| Zap | Spell | 2.0 | Spell - Buff / Debuff | `["Reset effects / knockback", "Disengage during buff window", "Spell denial on key troops"]` |

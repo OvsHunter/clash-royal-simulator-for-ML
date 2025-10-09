@@ -1,0 +1,84 @@
+card,level,status,expected_dps,simulated_dps,delta_pct,notes
+Knight,11,ok,168.33,0.0,-100.0,
+Archers,,error,,,,"unknown tower reference: {'x': 13.3, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Bomber,11,ok,48.33,0.0,-100.0,
+Skeletons,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Minions,,error,,,,"unknown tower reference: {'x': 9.9, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Spear Goblins,,error,,,,"unknown tower reference: {'x': 13.8, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Goblins,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Barbarians,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Elite Barbarians,,error,,,,"unknown tower reference: {'x': 9.5, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Royal Giant,11,ok,70.59,0.0,-100.0,
+Minion Horde,,error,,,,"unknown tower reference: {'x': 9.9, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Fire Spirit,11,ok,270.0,0.0,-100.0,
+Ice Spirit,11,ok,143.33,0.0,-100.0,
+Bats,,error,,,,"unknown tower reference: {'x': 9.5, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Royal Recruits,11,ok,102.31,0.0,-100.0,
+Skeleton Barrel,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Goblin Gang,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Electro Spirit,11,ok,130.0,0.0,-100.0,
+Skeleton Dragons,11,ok,33.16,0.0,-100.0,
+Firecracker,11,ok,0.0,0.0,,
+Rascals,,error,,,,"unknown tower reference: {'x': 10.1, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Berserker,,error,,,,unknown card: Berserker
+Musketeer,9,ok,103.0,0.0,-100.0,
+Mini P.E.K.K.A.,,error,,,,unknown card: Mini P.E.K.K.A.
+Valkyrie,9,ok,178.0,0.0,-100.0,
+Hog Rider,9,ok,198.75,0.0,-100.0,
+Battle Ram,9,ok,715.0,0.0,-100.0,
+Three Musketeers,,error,,,,"unknown tower reference: {'x': 14.3, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Wizard,9,ok,95.0,0.0,-100.0,
+Dart Goblin,,error,,,,"unknown tower reference: {'x': 14.8, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Ice Golem,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Zappies,9,ok,55.24,0.0,-100.0,
+Flying Machine,,error,,,,"unknown tower reference: {'x': 14.3, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Royal Hogs,9,ok,61.67,0.0,-100.0,
+Heal Spirit,9,ok,0.0,0.0,,
+Battle Healer,9,ok,98.67,0.0,-100.0,
+Goblin Demolisher,,error,,,,unknown card: Goblin Demolisher
+Elixir Golem,9,ok,230.91,0.0,-100.0,
+Baby Dragon,6,ok,66.67,0.0,-100.0,
+Witch,6,ok,76.36,0.0,-100.0,
+Skeleton Army,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Prince,6,ok,280.0,0.0,-100.0,
+Dark Prince,6,ok,190.77,0.0,-100.0,
+P.E.K.K.A.,,error,,,,unknown card: P.E.K.K.A.
+Balloon,6,ok,320.0,0.0,-100.0,
+Giant Skeleton,6,ok,190.71,0.0,-100.0,
+Golem,6,ok,124.8,0.0,-100.0,
+Bowler,6,ok,72.0,0.0,-100.0,
+Executioner,6,ok,117.78,0.0,-100.0,
+Hunter,6,ok,24.09,0.0,-100.0,
+Cannon Cart,6,ok,133.0,0.0,-100.0,
+Guards,,error,,,,"unknown tower reference: {'x': 9.9, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Electro Dragon,6,ok,57.14,0.0,-100.0,
+Wall Breakers,6,ok,204.17,0.0,-100.0,
+Goblin Giant,6,ok,117.33,0.0,-100.0,
+Rune Giant,,error,,,,unknown card: Rune Giant
+Electro Giant,6,ok,77.62,0.0,-100.0,
+Miner,5,ok,194.17,0.0,-100.0,
+Princess,5,ok,0.0,0.0,,
+Ice Wizard,5,ok,44.12,0.0,-100.0,
+Lumberjack,,error,,,,"unknown tower reference: {'x': 9.4, 'y': 16.0, 'id': -999999, 'flying': False, 'radius': 0.45, 'hp': 0.0, 'alive': False, 'target': None}"
+Night Witch,5,ok,291.54,0.0,-100.0,
+Bandit,5,ok,233.0,0.0,-100.0,
+Magic Archer,5,ok,100.91,0.0,-100.0,
+Royal Ghost,5,ok,175.0,0.0,-100.0,
+Mega Knight,5,ok,304.71,0.0,-100.0,
+Fisherman,5,ok,179.23,0.0,-100.0,
+Mother Witch,5,ok,110.0,0.0,-100.0,
+Electro Wizard,5,ok,73.33,0.0,-100.0,
+Inferno Dragon,5,ok,107.5,0.0,-100.0,
+Lava Hound,5,ok,34.62,0.0,-100.0,
+Sparky,5,ok,275.0,0.0,-100.0,
+Phoenix,5,ok,262.0,0.0,-100.0,
+Spirit Empress,,error,,,,unknown card: Spirit Empress
+Goblin Machine,,error,,,,unknown card: Goblin Machine
+Archer Queen,5,ok,187.5,0.0,-100.0,
+Golden Knight,5,ok,258.89,0.0,-100.0,
+Mighty Miner,5,ok,145.0,0.0,-100.0,
+Skeleton King,5,ok,186.88,0.0,-100.0,
+Monk,5,ok,255.0,0.0,-100.0,
+Little Prince,,error,,,,unknown card: Little Prince
+Goblinstein,,error,,,,unknown card: Goblinstein
+Boss Bandit,,error,,,,unknown card: Boss Bandit

@@ -1,0 +1,82 @@
+{
+  "id": null,
+  "name": "Zappies",
+  "role": "Support / Utility",
+  "placement_strategy": "deploy behind tank or in safe tiles to support pushes",
+  "best_synergies": [],
+  "common_counters": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "attack_plan": [
+    "support push"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.4,
+    "cycle_priority": 0.7,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": null,
+    "hitpoints": 250,
+    "damage": 55,
+    "hit_speed": 2100,
+    "speed": 60,
+    "range": 4500,
+    "targets_ground": true,
+    "targets_air": true,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        250,
+        275,
+        302,
+        332,
+        365,
+        400,
+        440,
+        482,
+        530,
+        582,
+        640,
+        702,
+        772,
+        847,
+        930,
+        1022,
+        1125
+      ],
+      "damage": [
+        55,
+        60,
+        66,
+        73,
+        80,
+        88,
+        96,
+        106,
+        116,
+        128,
+        140,
+        154,
+        169,
+        186,
+        204,
+        224,
+        247
+      ],
+      "dps": null
+    }
+  }
+}

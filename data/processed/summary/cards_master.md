@@ -1,0 +1,112 @@
+| id | name | type | rarity | elixir | hitpoints | damage | range | speed | role | active |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 26000000 | Knight | troop | Common | 3 | 690.0 | 79.0 | 1200.0 | 60.0 | Support / Utility | True |
+|  | Archers | troop |  |  |  |  |  |  | Support / Utility | True |
+| 26000013 | Bomber | troop | Common | 2 | 130.0 | 0.0 | 4500.0 | 60.0 | Splash Control | True |
+|  | Skeletons | troop |  |  |  |  |  |  | Melee DPS / Assassin | True |
+|  | Minions | troop |  |  |  |  |  |  | Melee DPS / Assassin | True |
+|  | Spear Goblins | troop |  |  |  |  |  |  | Ranged Support / Anti-Air | True |
+|  | Goblins | troop |  |  |  |  |  |  | Melee DPS / Assassin | True |
+|  | Barbarians | troop |  |  |  |  |  |  | Swarm Cycle Unit | True |
+|  | Elite Barbarians | troop |  |  |  |  |  |  | Melee DPS / Assassin | True |
+|  | Royal Giant | troop | Common |  | 1200.0 | 0.0 | 5000.0 | 45.0 | Win Condition - Building Targeting (Ground) | True |
+|  | Minion Horde | troop |  |  |  |  |  |  | Swarm Cycle Unit | True |
+|  | Fire Spirit | troop | Common |  | 90.0 | 0.0 | 2000.0 | 120.0 | Melee DPS / Assassin | True |
+|  | Ice Spirit | troop | Common |  | 90.0 | 0.0 | 2500.0 | 120.0 | Support / Utility | True |
+|  | Bats | troop |  |  |  |  |  |  | Swarm Cycle Unit | True |
+|  | Royal Recruits | troop | Common |  | 208.0 | 52.0 | 1600.0 | 60.0 | Swarm Cycle Unit | True |
+|  | Skeleton Barrel | troop |  |  |  |  |  |  | Win Condition - Building Targeting (Air) | True |
+|  | Goblin Gang | troop |  |  |  |  |  |  | Melee DPS / Assassin | True |
+|  | Electro Spirit | troop | Common |  | 90.0 | 0.0 | 2500.0 | 120.0 | Support / Utility | True |
+|  | Skeleton Dragons | troop | Common |  | 220.0 | 0.0 | 3500.0 | 90.0 | Support / Utility | True |
+| 26000064 | Firecracker | troop | Common | 3 | 119.0 | 0.0 | 6000.0 | 90.0 | Ranged Support / Anti-Air | True |
+|  | Rascals | troop |  |  |  |  |  |  | Melee Tank / Bridge Pressure | True |
+|  | Berserker | troop |  |  |  |  |  |  | Unknown Role | True |
+| 26000014 | Musketeer | troop | Rare | 4 | 340.0 | 0.0 | 6000.0 | 60.0 | Ranged Support / Anti-Air | True |
+|  | Mini P.E.K.K.A. | troop | Rare |  | 642.0 | 340.0 | 800.0 | 90.0 | Melee DPS / Assassin | True |
+| 26000011 | Valkyrie | troop | Rare | 4 | 900.0 | 126.0 | 1200.0 | 60.0 | Splash Control | True |
+|  | Hog Rider | troop | Rare |  | 800.0 | 150.0 | 800.0 | 120.0 | Win Condition - Building Targeting (Ground) | True |
+|  | Battle Ram | troop | Rare |  | 456.0 | 135.0 | 500.0 | 60.0 | Win Condition - Building Targeting (Ground) | True |
+|  | Three Musketeers | troop |  |  |  |  |  |  | Ranged Support / Anti-Air | True |
+| 26000017 | Wizard | troop | Rare | 5 | 340.0 | 0.0 | 5500.0 | 60.0 | Splash Control | True |
+|  | Dart Goblin | troop |  |  |  |  |  |  | Ranged Support / Anti-Air | True |
+|  | Ice Golem | troop |  |  |  |  |  |  | Win Condition - Building Targeting (Ground) | True |
+|  | Zappies | troop | Rare |  | 250.0 | 55.0 | 4500.0 | 60.0 | Support / Utility | True |
+|  | Flying Machine | troop |  |  |  |  |  |  | Ranged Support / Anti-Air | True |
+|  | Royal Hogs | troop | Rare |  | 395.0 | 35.0 | 750.0 | 120.0 | Win Condition - Building Targeting (Ground) | True |
+|  | Heal Spirit | troop | Rare |  | 109.0 | 0.0 | 2500.0 | 120.0 | Unknown Role | True |
+|  | Battle Healer | troop | Rare |  | 810.0 | 70.0 | 1600.0 | 60.0 | Support / Healer | True |
+|  | Goblin Demolisher | troop |  |  |  |  |  |  | Unknown Role | True |
+|  | Elixir Golem | troop | Rare |  | 740.0 | 120.0 | 800.0 | 45.0 | Win Condition - Building Targeting (Ground) | True |
+|  | Baby Dragon | troop | Epic |  | 720.0 | 0.0 | 3500.0 | 90.0 | Splash Control | True |
+| 26000007 | Witch | troop | Epic | 5 | 524.0 | 0.0 | 5500.0 | 60.0 | Splash Control | True |
+|  | Skeleton Army | troop |  |  |  |  |  |  | Swarm Cycle Unit | True |
+| 26000016 | Prince | troop | Epic | 5 | 1200.0 | 245.0 | 1600.0 | 60.0 | Melee DPS / Assassin | True |
+|  | Dark Prince | troop | Epic |  | 750.0 | 155.0 | 1200.0 | 60.0 | Splash Control | True |
+|  | P.E.K.K.A. | troop | Epic |  | 2350.0 | 510.0 | 1200.0 | 45.0 | Melee Tank / Bridge Pressure | True |
+| 26000006 | Balloon | troop | Epic | 5 | 1050.0 | 400.0 | 100.0 | 60.0 | Win Condition - Building Targeting (Air) | True |
+|  | Giant Skeleton | troop | Epic |  | 2140.0 | 167.0 | 800.0 | 60.0 | Melee Tank / Bridge Pressure | True |
+| 26000009 | Golem | troop | Epic | 8 | 3200.0 | 195.0 | 750.0 | 45.0 | Win Condition - Building Targeting (Ground) | True |
+| 26000034 | Bowler | troop | Epic | 5 | 1300.0 | 0.0 | 4000.0 | 45.0 | Splash Control | True |
+|  | Executioner | troop | Epic |  | 800.0 | 0.0 | 4500.0 | 60.0 | Splash Control | True |
+| 26000044 | Hunter | troop | Epic | 4 | 524.0 | 0.0 | 4000.0 | 60.0 | Splash Control | True |
+|  | Cannon Cart | troop | Epic |  | 558.0 | 0.0 | 5500.0 | 60.0 | Support / Utility | True |
+|  | Guards | troop |  |  |  |  |  |  | Melee DPS / Assassin | True |
+|  | Electro Dragon | troop | Epic |  | 594.0 | 0.0 | 3500.0 | 60.0 | Splash Control | True |
+|  | Wall Breakers | troop |  |  |  |  |  |  | Win Condition - Building Targeting (Ground) | True |
+|  | Goblin Giant | troop | Epic |  | 2085.0 | 110.0 | 1200.0 | 60.0 | Win Condition - Building Targeting (Ground) | True |
+|  | Rune Giant | troop |  |  |  |  |  |  | Unknown Role | True |
+|  | Electro Giant | troop | Epic |  | 2410.0 | 102.0 | 1200.0 | 45.0 | Win Condition - Building Targeting (Ground) | True |
+| 26000032 | Miner | troop | Legendary | 3 | 1000.0 | 160.0 | 1200.0 | 90.0 | Melee DPS / Assassin | True |
+| 26000026 | Princess | troop | Legendary | 3 | 216.0 | 0.0 | 9000.0 | 60.0 | Splash Control | True |
+|  | Ice Wizard | troop | Legendary |  | 569.0 | 0.0 | 5500.0 | 60.0 | Splash Control | True |
+|  | Lumberjack | troop |  |  |  |  |  |  | Melee DPS / Assassin | True |
+|  | Night Witch | troop | Legendary |  | 750.0 | 260.0 | 1600.0 | 60.0 | Support / Utility | True |
+|  | Bandit | troop | Legendary |  | 750.0 | 160.0 | 750.0 | 90.0 | Melee DPS / Assassin | True |
+|  | Magic Archer | troop |  |  |  |  |  |  | Splash Control | True |
+|  | Royal Ghost | troop | Legendary |  | 1000.0 | 216.0 | 1200.0 | 90.0 | Splash Control | True |
+|  | Mega Knight | troop | Legendary |  | 3300.0 | 222.0 | 1200.0 | 60.0 | Splash Control | True |
+| 26000061 | Fisherman | troop | Legendary | 3 | 720.0 | 160.0 | 1200.0 | 60.0 | Support / Utility | True |
+|  | Mother Witch | troop | Legendary |  | 440.0 | 0.0 | 5500.0 | 60.0 | Splash Control | True |
+|  | Electro Wizard | troop | Legendary |  | 590.0 | 91.0 | 5000.0 | 90.0 | Splash Control | True |
+|  | Inferno Dragon | troop | Legendary |  | 1070.0 | 30.0 | 3500.0 | 60.0 | Support / Utility | True |
+|  | Lava Hound | troop | Legendary |  | 3150.0 | 0.0 | 3500.0 | 45.0 | Win Condition - Building Targeting (Air) | True |
+|  | Sparky | troop | Legendary |  | 1200.0 | 0.0 | 5000.0 | 45.0 | Support / Utility | True |
+| 26000087 | Phoenix | troop | Legendary | 4 | 870.0 | 180.0 | 1600.0 | 60.0 | Support / Utility | True |
+|  | Spirit Empress | troop |  |  |  |  |  |  | Unknown Role | True |
+|  | Goblin Machine | troop |  |  |  |  |  |  | Unknown Role | True |
+|  | Archer Queen | troop | Champion |  | 1000.0 | 0.0 | 5000.0 | 60.0 | Champion - Long-Range Burst DPS | True |
+|  | Golden Knight | troop | Champion |  | 1800.0 | 160.0 | 1200.0 | 60.0 | Champion - Dash DPS | True |
+|  | Mighty Miner | troop | Champion |  | 2250.0 | 40.0 | 1600.0 | 60.0 | Champion - Melee Tank Drill | True |
+|  | Skeleton King | troop | Champion |  | 2300.0 | 205.0 | 1200.0 | 60.0 | Champion - Swarm Amplifier | True |
+| 26000077 | Monk | troop | Champion | 5 | 2000.0 | 140.0 | 1200.0 | 60.0 | Champion - Defensive Reflection | True |
+|  | Little Prince | troop |  |  |  |  |  |  | Unknown Role | True |
+|  | Goblinstein | troop |  |  |  |  |  |  | Unknown Role | True |
+|  | Boss Bandit | troop |  |  |  |  |  |  | Unknown Role | True |
+|  | Arrows | spell |  |  |  |  |  |  | Unknown Role | True |
+| 28000008 | Zap | spell | Common | 2 |  | 75.0 |  |  | Spell - Buff / Debuff | True |
+|  | Fireball | spell |  |  |  |  |  |  | Unknown Role | True |
+| 28000007 | Lightning | spell | Epic | 6 |  | 0.0 |  |  | Spell - Area Control | True |
+|  | Rocket | spell |  |  |  |  |  |  | Unknown Role | True |
+| 28000002 | Rage | spell | Epic | 2 |  | 0.0 |  |  | Spell - Buff / Debuff | True |
+| 28000009 | Poison | spell | Epic | 4 |  | 0.0 |  |  | Spell - Buff / Debuff | True |
+| 28000010 | Graveyard | spell | Legendary | 5 |  | 0.0 |  |  | Spell - Summon | True |
+|  | The Log | spell |  |  |  |  |  |  | Unknown Role | True |
+| 28000012 | Tornado | spell | Epic | 3 |  | 0.0 |  |  | Spell - Buff / Debuff | True |
+| 28000013 | Clone | spell | Epic | 3 |  | 0.0 |  |  | Spell - Buff / Debuff | True |
+| 28000005 | Freeze | spell | Epic | 4 |  | 72.0 |  |  | Spell - Buff / Debuff | True |
+|  | Mirror | spell |  |  |  |  |  |  | Unknown Role | True |
+| 28000014 | Earthquake | spell | Rare | 3 |  | 0.0 |  |  | Spell - Buff / Debuff | True |
+|  | Barbarian Barrel | spell |  |  |  |  |  |  | Unknown Role | True |
+|  | Snowball | spell |  |  |  |  |  |  | Unknown Role | True |
+|  | Goblin Barrel | spell |  |  |  |  |  |  | Unknown Role | True |
+| 27000000 | Cannon | building | Common | 3 | 322.0 | 0.0 | 5500.0 | 0.0 | Defensive Building / Ground Pull | True |
+| 27000006 | Tesla | building | Common | 4 | 450.0 | 90.0 | 5500.0 | 0.0 | Defensive Building / Anti-Air | True |
+|  | Inferno Tower | building | Rare | 5 | 825.0 | 20.0 | 6000.0 | 0.0 | Defensive Building / Anti-Air | True |
+|  | Bomb Tower | building | Rare | 4 | 640.0 | 0.0 | 6000.0 | 0.0 | Defensive Building / Ground Pull | True |
+| 27000002 | Mortar | building | Common | 4 | 535.0 | 0.0 | 11500.0 | 0.0 | Siege Building / Win Condition | True |
+|  | Goblin Hut | building | Rare | 5 | 400.0 | 0.0 | 0.0 | 0.0 | Spawner Building | True |
+|  | Furnace | building | Rare | 4 | 400.0 | 0.0 | 0.0 | 0.0 | Defensive Building / Ground Pull | True |
+|  | Barbarian Hut | building | Rare | 6 | 550.0 | 0.0 | 0.0 | 0.0 | Spawner Building | True |
+|  | Elixir Collector | building | Rare |  | 505.0 | 0.0 | 0.0 | 0.0 | Unknown Role | True |
+| 27000009 | Tombstone | building | Rare | 3 | 250.0 | 0.0 | 0.0 | 0.0 | Spawner Building | True |

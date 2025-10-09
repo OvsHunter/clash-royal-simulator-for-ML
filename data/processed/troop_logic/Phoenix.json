@@ -1,0 +1,70 @@
+{
+  "id": 26000087,
+  "name": "Phoenix",
+  "role": "Support / Utility",
+  "placement_strategy": "deploy behind tank or in safe tiles to support pushes",
+  "best_synergies": [],
+  "common_counters": [
+    "Trade efficiently",
+    "Spell chip when clumped",
+    "Opposite lane pressure"
+  ],
+  "attack_plan": [
+    "support push"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.4,
+    "cycle_priority": 0.5,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": 4,
+    "hitpoints": 870,
+    "damage": 180,
+    "hit_speed": 1000,
+    "speed": 60,
+    "range": 1600,
+    "targets_ground": true,
+    "targets_air": true,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        870,
+        957,
+        1052,
+        1157,
+        1270,
+        1392,
+        1531,
+        1679,
+        1844,
+        2027,
+        2227
+      ],
+      "damage": [
+        180,
+        198,
+        217,
+        239,
+        262,
+        288,
+        316,
+        347,
+        381,
+        419,
+        460
+      ],
+      "dps": null
+    }
+  }
+}

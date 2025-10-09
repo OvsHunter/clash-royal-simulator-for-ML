@@ -1,0 +1,82 @@
+{
+  "id": null,
+  "name": "Inferno Tower",
+  "role": "Defensive Building / Anti-Air",
+  "placement_strategy": "place in middle tiles for optimal pull coverage",
+  "best_synergies": [],
+  "common_counters": [
+    "Spell removal (Fireball/Lightning)",
+    "Earthquake pressure",
+    "Overwhelm with split attacks"
+  ],
+  "attack_plan": [
+    "bridge defense"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.4,
+    "cycle_priority": 0.5,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": 5,
+    "hitpoints": 825,
+    "damage": 20,
+    "hit_speed": 400,
+    "speed": 0,
+    "range": 6000,
+    "targets_ground": true,
+    "targets_air": true,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        825,
+        907,
+        998,
+        1097,
+        1204,
+        1320,
+        1452,
+        1592,
+        1749,
+        1922,
+        2112,
+        2318,
+        2549,
+        2796,
+        3069,
+        3374,
+        3712
+      ],
+      "damage": [
+        20,
+        22,
+        24,
+        26,
+        29,
+        32,
+        35,
+        38,
+        42,
+        46,
+        51,
+        56,
+        61,
+        67,
+        74,
+        81,
+        90
+      ],
+      "dps": null
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 26000077,
+  "name": "Monk",
+  "role": "Champion - Defensive Reflection",
+  "placement_strategy": "deploy behind tank or in safe tiles to support pushes",
+  "best_synergies": [],
+  "common_counters": [
+    "Wait out reflection window",
+    "High DPS ground units",
+    "Opposite-lane pressure"
+  ],
+  "attack_plan": [
+    "cycle value"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.45,
+    "defense_weight": 0.5,
+    "cycle_priority": 0.5,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": 5,
+    "hitpoints": 2000,
+    "damage": 140,
+    "hit_speed": 800,
+    "speed": 60,
+    "range": 1200,
+    "targets_ground": true,
+    "targets_air": false,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        2000,
+        2200,
+        2420,
+        2660,
+        2920,
+        3200,
+        3520,
+        3860,
+        4240
+      ],
+      "damage": [
+        140,
+        154,
+        169,
+        186,
+        204,
+        224,
+        246,
+        270,
+        296
+      ],
+      "dps": null
+    }
+  }
+}

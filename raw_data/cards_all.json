@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Knight",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Knight"
+  },
+  {
+    "name": "Archers",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Archers"
+  },
+  {
+    "name": "Bomber",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bomber"
+  },
+  {
+    "name": "Skeletons",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeletons"
+  },
+  {
+    "name": "Minions",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Minions"
+  },
+  {
+    "name": "Spear Goblins",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Spear_Goblins"
+  },
+  {
+    "name": "Goblins",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblins"
+  },
+  {
+    "name": "Barbarians",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Barbarians"
+  },
+  {
+    "name": "Elite Barbarians",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Elite_Barbarians"
+  },
+  {
+    "name": "Royal Giant",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Giant"
+  },
+  {
+    "name": "Minion Horde",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Minion_Horde"
+  },
+  {
+    "name": "Fire Spirit",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Fire_Spirit"
+  },
+  {
+    "name": "Ice Spirit",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Ice_Spirit"
+  },
+  {
+    "name": "Bats",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bats"
+  },
+  {
+    "name": "Royal Recruits",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Recruits"
+  },
+  {
+    "name": "Skeleton Barrel",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_Barrel"
+  },
+  {
+    "name": "Goblin Gang",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Gang"
+  },
+  {
+    "name": "Electro Spirit",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Spirit"
+  },
+  {
+    "name": "Skeleton Dragons",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_Dragons"
+  },
+  {
+    "name": "Firecracker",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Firecracker"
+  },
+  {
+    "name": "Rascals",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Rascals"
+  },
+  {
+    "name": "Berserker",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Berserker"
+  },
+  {
+    "name": "Musketeer",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Musketeer"
+  },
+  {
+    "name": "Mini P.E.K.K.A.",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mini_PEKKA"
+  },
+  {
+    "name": "Valkyrie",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Valkyrie"
+  },
+  {
+    "name": "Hog Rider",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Hog_Rider"
+  },
+  {
+    "name": "Battle Ram",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Battle_Ram"
+  },
+  {
+    "name": "Three Musketeers",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Three_Musketeers"
+  },
+  {
+    "name": "Wizard",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Wizard"
+  },
+  {
+    "name": "Dart Goblin",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Dart_Goblin"
+  },
+  {
+    "name": "Ice Golem",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Ice_Golem"
+  },
+  {
+    "name": "Zappies",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Zappies"
+  },
+  {
+    "name": "Flying Machine",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Flying_Machine"
+  },
+  {
+    "name": "Royal Hogs",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Hogs"
+  },
+  {
+    "name": "Heal Spirit",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Heal_Spirit"
+  },
+  {
+    "name": "Battle Healer",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Battle_Healer"
+  },
+  {
+    "name": "Goblin Demolisher",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Demolisher"
+  },
+  {
+    "name": "Elixir Golem",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Elixir_Golem"
+  },
+  {
+    "name": "Baby Dragon",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Baby_Dragon"
+  },
+  {
+    "name": "Witch",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Witch"
+  },
+  {
+    "name": "Skeleton Army",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_Army"
+  },
+  {
+    "name": "Prince",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Prince"
+  },
+  {
+    "name": "Dark Prince",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Dark_Prince"
+  },
+  {
+    "name": "P.E.K.K.A.",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/PEKKA"
+  },
+  {
+    "name": "Balloon",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Balloon"
+  },
+  {
+    "name": "Giant Skeleton",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Giant_Skeleton"
+  },
+  {
+    "name": "Golem",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Golem"
+  },
+  {
+    "name": "Bowler",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bowler"
+  },
+  {
+    "name": "Executioner",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Executioner"
+  },
+  {
+    "name": "Hunter",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Hunter"
+  },
+  {
+    "name": "Cannon Cart",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Cannon_Cart"
+  },
+  {
+    "name": "Guards",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Guards"
+  },
+  {
+    "name": "Electro Dragon",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Dragon"
+  },
+  {
+    "name": "Wall Breakers",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Wall_Breakers"
+  },
+  {
+    "name": "Goblin Giant",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Giant"
+  },
+  {
+    "name": "Rune Giant",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Rune_Giant"
+  },
+  {
+    "name": "Electro Giant",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Giant"
+  },
+  {
+    "name": "Miner",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Miner"
+  },
+  {
+    "name": "Princess",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Princess"
+  },
+  {
+    "name": "Ice Wizard",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Ice_Wizard"
+  },
+  {
+    "name": "Lumberjack",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Lumberjack"
+  },
+  {
+    "name": "Night Witch",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Night_Witch"
+  },
+  {
+    "name": "Bandit",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bandit"
+  },
+  {
+    "name": "Magic Archer",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Magic_Archer"
+  },
+  {
+    "name": "Royal Ghost",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Royal_Ghost"
+  },
+  {
+    "name": "Mega Knight",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mega_Knight"
+  },
+  {
+    "name": "Fisherman",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Fisherman"
+  },
+  {
+    "name": "Mother Witch",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mother_Witch"
+  },
+  {
+    "name": "Electro Wizard",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Electro_Wizard"
+  },
+  {
+    "name": "Inferno Dragon",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Inferno_Dragon"
+  },
+  {
+    "name": "Lava Hound",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Lava_Hound"
+  },
+  {
+    "name": "Sparky",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Sparky"
+  },
+  {
+    "name": "Phoenix",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Phoenix"
+  },
+  {
+    "name": "Spirit Empress",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Spirit_Empress"
+  },
+  {
+    "name": "Goblin Machine",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Machine"
+  },
+  {
+    "name": "Archer Queen",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Archer_Queen"
+  },
+  {
+    "name": "Golden Knight",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Golden_Knight"
+  },
+  {
+    "name": "Mighty Miner",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mighty_Miner"
+  },
+  {
+    "name": "Skeleton King",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Skeleton_King"
+  },
+  {
+    "name": "Monk",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Monk"
+  },
+  {
+    "name": "Little Prince",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Little_Prince"
+  },
+  {
+    "name": "Goblinstein",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblinstein"
+  },
+  {
+    "name": "Boss Bandit",
+    "type": "troop",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Boss_Bandit"
+  },
+  {
+    "name": "Arrows",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Arrows"
+  },
+  {
+    "name": "Zap",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Zap"
+  },
+  {
+    "name": "Fireball",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Fireball"
+  },
+  {
+    "name": "Lightning",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Lightning"
+  },
+  {
+    "name": "Rocket",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Rocket"
+  },
+  {
+    "name": "Rage",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Rage"
+  },
+  {
+    "name": "Poison",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Poison"
+  },
+  {
+    "name": "Graveyard",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Graveyard"
+  },
+  {
+    "name": "The Log",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/The_Log"
+  },
+  {
+    "name": "Tornado",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Tornado"
+  },
+  {
+    "name": "Clone",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Clone"
+  },
+  {
+    "name": "Freeze",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Freeze"
+  },
+  {
+    "name": "Mirror",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mirror"
+  },
+  {
+    "name": "Earthquake",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Earthquake"
+  },
+  {
+    "name": "Barbarian Barrel",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Barbarian_Barrel"
+  },
+  {
+    "name": "Snowball",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Snowball"
+  },
+  {
+    "name": "Goblin Barrel",
+    "type": "spell",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Barrel"
+  },
+  {
+    "name": "Cannon",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Cannon"
+  },
+  {
+    "name": "Tesla",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Tesla"
+  },
+  {
+    "name": "Inferno Tower",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Inferno_Tower"
+  },
+  {
+    "name": "Bomb Tower",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Bomb_Tower"
+  },
+  {
+    "name": "Mortar",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Mortar"
+  },
+  {
+    "name": "Goblin Hut",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Goblin_Hut"
+  },
+  {
+    "name": "Furnace",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Furnace"
+  },
+  {
+    "name": "Barbarian Hut",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Barbarian_Hut"
+  },
+  {
+    "name": "Elixir Collector",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Elixir_Collector"
+  },
+  {
+    "name": "Tombstone",
+    "type": "building",
+    "wiki_url": "https://clashroyale.fandom.com/wiki/Tombstone"
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "Rage": {
+    "type": "spell",
+    "rarity": "Epic",
+    "cost": 2,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 3.0,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Freeze": {
+    "type": "spell",
+    "rarity": "Epic",
+    "cost": 4,
+    "dmg": 126,
+    "dmg_levels": [
+      72,
+      79,
+      87,
+      95,
+      105,
+      115,
+      126,
+      138,
+      152,
+      167,
+      184,
+      202,
+      222,
+      244
+    ],
+    "radius": 3.0,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Lightning": {
+    "type": "spell",
+    "rarity": "Epic",
+    "cost": 6,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 3.5,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Zap": {
+    "type": "spell",
+    "rarity": "Common",
+    "cost": 2,
+    "dmg": 192,
+    "dmg_levels": [
+      75,
+      82,
+      90,
+      99,
+      109,
+      120,
+      132,
+      144,
+      159,
+      174,
+      192,
+      210,
+      231,
+      254,
+      279,
+      306,
+      337,
+      371,
+      408
+    ],
+    "radius": 2.5,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Poison": {
+    "type": "spell",
+    "rarity": "Epic",
+    "cost": 4,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 3.5,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Graveyard": {
+    "type": "spell",
+    "rarity": "Legendary",
+    "cost": 5,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 4.0,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Tornado": {
+    "type": "spell",
+    "rarity": "Epic",
+    "cost": 3,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 5.5,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Clone": {
+    "type": "spell",
+    "rarity": "Epic",
+    "cost": 3,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 30.0,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Heal Spirit": {
+    "type": "spell",
+    "rarity": "Rare",
+    "cost": 1,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 4.0,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  },
+  "Earthquake": {
+    "type": "spell",
+    "rarity": "Rare",
+    "cost": 3,
+    "dmg": 0,
+    "dmg_levels": [],
+    "radius": 3.5,
+    "duration": 0.0,
+    "heal_per_sec": 0.0,
+    "targets": [
+      "ground"
+    ]
+  }
+}

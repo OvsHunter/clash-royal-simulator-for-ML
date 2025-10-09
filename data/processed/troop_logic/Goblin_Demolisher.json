@@ -1,0 +1,42 @@
+{
+  "id": null,
+  "name": "Goblin Demolisher",
+  "role": "Unknown Role",
+  "placement_strategy": "deploy behind tank or in safe tiles to support pushes",
+  "best_synergies": [],
+  "common_counters": [],
+  "attack_plan": [
+    "cycle value"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.5,
+    "cycle_priority": 0.7,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": null,
+    "hitpoints": null,
+    "damage": null,
+    "hit_speed": null,
+    "speed": null,
+    "range": null,
+    "targets_ground": true,
+    "targets_air": false,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": null,
+      "damage": null,
+      "dps": null
+    }
+  }
+}

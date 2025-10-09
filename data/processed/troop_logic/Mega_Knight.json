@@ -1,0 +1,70 @@
+{
+  "id": null,
+  "name": "Mega Knight",
+  "role": "Splash Control",
+  "placement_strategy": "deploy behind tank or in safe tiles to support pushes",
+  "best_synergies": [],
+  "common_counters": [
+    "Snipe with ranged units",
+    "Lightning/Fireball",
+    "Spread deployments"
+  ],
+  "attack_plan": [
+    "cycle value"
+  ],
+  "defense_usage": [],
+  "punish_condition": [
+    "When opponent overcommits on offense"
+  ],
+  "ai_considerations": {
+    "synergy_weight": 0.4,
+    "defense_weight": 0.5,
+    "cycle_priority": 0.7,
+    "last_trained": "2025-10-07T04:47:20Z"
+  },
+  "ai_profile_last_synced": "2025-10-07T04:43:23Z",
+  "mechanics": {
+    "elixir": null,
+    "hitpoints": 3300,
+    "damage": 222,
+    "hit_speed": 1700,
+    "speed": 60,
+    "range": 1200,
+    "targets_ground": true,
+    "targets_air": false,
+    "target_only_buildings": false,
+    "projectile": null,
+    "projectile_speed": null,
+    "projectile_radius": null,
+    "projectile_data": null,
+    "per_level": {
+      "hitpoints": [
+        3300,
+        3630,
+        3993,
+        4389,
+        4818,
+        5280,
+        5808,
+        6369,
+        6996,
+        7689,
+        8448
+      ],
+      "damage": [
+        222,
+        244,
+        268,
+        295,
+        324,
+        355,
+        390,
+        428,
+        470,
+        517,
+        568
+      ],
+      "dps": null
+    }
+  }
+}

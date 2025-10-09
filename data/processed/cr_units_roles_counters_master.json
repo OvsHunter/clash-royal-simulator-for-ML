@@ -1,0 +1,1014 @@
+[
+  {
+    "Name": "Archer Queen",
+    "Type": "Champion",
+    "Role": "Champion - Long-Range Burst DPS",
+    "Counters": [
+      "Spell pressure (Fireball/Lightning)",
+      "Assassins or Miner on top",
+      "Reset/disable ability timing"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Golden Knight",
+    "Type": "Champion",
+    "Role": "Champion - Dash DPS",
+    "Counters": [
+      "Cheap swarms to stop dash lanes",
+      "Reset/knockback effects",
+      "Kite into defending buildings"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Mighty Miner",
+    "Type": "Champion",
+    "Role": "Champion - Melee Tank Drill",
+    "Counters": [
+      "Air units or swarms",
+      "Reset effects (Lightning/Fisherman)",
+      "Pull with buildings or Tombstone"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Monk",
+    "Type": "Champion",
+    "Role": "Champion - Defensive Reflection",
+    "Counters": [
+      "Wait out reflection window",
+      "High DPS ground units",
+      "Opposite-lane pressure"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Skeleton King",
+    "Type": "Champion",
+    "Role": "Champion - Swarm Amplifier",
+    "Counters": [
+      "Spell deny (Poison/Fireball)",
+      "Eliminate soul generators quickly",
+      "Bridge pressure to split resources"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Archers",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Baby Dragon",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Balloon",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Air)",
+    "Counters": [
+      "Air-targeting buildings (Tesla/Inferno)",
+      "Long-range air DPS (Musketeer/Archers)",
+      "Swarm or stun to delay hits"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Bandit",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Barbarians",
+    "Type": "Troop",
+    "Role": "Swarm Cycle Unit",
+    "Counters": [
+      "Small spells (Log/Arrows)",
+      "Splash damage troops",
+      "Force quick cycling"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Bats",
+    "Type": "Troop",
+    "Role": "Swarm Cycle Unit",
+    "Counters": [
+      "Small spells (Log/Arrows)",
+      "Splash damage troops",
+      "Force quick cycling"
+    ],
+    "Elixir Cost": 2.0
+  },
+  {
+    "Name": "Battle Healer",
+    "Type": "Troop",
+    "Role": "Support / Healer",
+    "Counters": [
+      "Burst damage to delete support",
+      "Crowd control (stuns/knockback)",
+      "Separate from tanks before engaging"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Battle Ram",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Bomber",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 2.0
+  },
+  {
+    "Name": "Bowler",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Cannon Cart",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Dark Prince",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Dart Goblin",
+    "Type": "Troop",
+    "Role": "Ranged Support / Anti-Air",
+    "Counters": [
+      "Spell value (Fireball/Poison)",
+      "Assassins (Miner/Bandit)",
+      "Split-lane pressure"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Electro Dragon",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Electro Giant",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 7.0
+  },
+  {
+    "Name": "Electro Spirit",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 1.0
+  },
+  {
+    "Name": "Electro Wizard",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Elite Barbarians",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 6.0
+  },
+  {
+    "Name": "Elixir Golem",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Executioner",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Fire Spirit",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 1.0
+  },
+  {
+    "Name": "Firecracker",
+    "Type": "Troop",
+    "Role": "Ranged Support / Anti-Air",
+    "Counters": [
+      "Spell value (Fireball/Poison)",
+      "Assassins (Miner/Bandit)",
+      "Split-lane pressure"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Fisherman",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Flying Machine",
+    "Type": "Troop",
+    "Role": "Ranged Support / Anti-Air",
+    "Counters": [
+      "Spell value (Fireball/Poison)",
+      "Assassins (Miner/Bandit)",
+      "Split-lane pressure"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Giant Skeleton",
+    "Type": "Troop",
+    "Role": "Melee Tank / Bridge Pressure",
+    "Counters": [
+      "Kiting buildings",
+      "High DPS melee (Mini P.E.K.K.A)",
+      "Air units or swarms"
+    ],
+    "Elixir Cost": 6.0
+  },
+  {
+    "Name": "Goblin Gang",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Goblin Giant",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 6.0
+  },
+  {
+    "Name": "Goblins",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 2.0
+  },
+  {
+    "Name": "Golem",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 8.0
+  },
+  {
+    "Name": "Guards",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Hog Rider",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Hunter",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Ice Golem",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 2.0
+  },
+  {
+    "Name": "Ice Spirit",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 1.0
+  },
+  {
+    "Name": "Ice Wizard",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Inferno Dragon",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Knight",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Lava Hound",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Air)",
+    "Counters": [
+      "Air-targeting buildings (Tesla/Inferno)",
+      "Long-range air DPS (Musketeer/Archers)",
+      "Swarm or stun to delay hits"
+    ],
+    "Elixir Cost": 7.0
+  },
+  {
+    "Name": "Lumberjack",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Magic Archer",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Mega Knight",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 7.0
+  },
+  {
+    "Name": "Miner",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Mini P.E.K.K.A.",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Minion Horde",
+    "Type": "Troop",
+    "Role": "Swarm Cycle Unit",
+    "Counters": [
+      "Small spells (Log/Arrows)",
+      "Splash damage troops",
+      "Force quick cycling"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Minions",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Mother Witch",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Musketeer",
+    "Type": "Troop",
+    "Role": "Ranged Support / Anti-Air",
+    "Counters": [
+      "Spell value (Fireball/Poison)",
+      "Assassins (Miner/Bandit)",
+      "Split-lane pressure"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Night Witch",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "P.E.K.K.A.",
+    "Type": "Troop",
+    "Role": "Melee Tank / Bridge Pressure",
+    "Counters": [
+      "Kiting buildings",
+      "High DPS melee (Mini P.E.K.K.A)",
+      "Air units or swarms"
+    ],
+    "Elixir Cost": 7.0
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Prince",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Princess",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Rascals",
+    "Type": "Troop",
+    "Role": "Melee Tank / Bridge Pressure",
+    "Counters": [
+      "Kiting buildings",
+      "High DPS melee (Mini P.E.K.K.A)",
+      "Air units or swarms"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Royal Ghost",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Royal Giant",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 6.0
+  },
+  {
+    "Name": "Royal Hogs",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Royal Recruits",
+    "Type": "Troop",
+    "Role": "Swarm Cycle Unit",
+    "Counters": [
+      "Small spells (Log/Arrows)",
+      "Splash damage troops",
+      "Force quick cycling"
+    ],
+    "Elixir Cost": 7.0
+  },
+  {
+    "Name": "Skeleton Army",
+    "Type": "Troop",
+    "Role": "Swarm Cycle Unit",
+    "Counters": [
+      "Small spells (Log/Arrows)",
+      "Splash damage troops",
+      "Force quick cycling"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Skeleton Barrel",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Air)",
+    "Counters": [
+      "Air-targeting buildings (Tesla/Inferno)",
+      "Long-range air DPS (Musketeer/Archers)",
+      "Swarm or stun to delay hits"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Skeleton Dragons",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Skeletons",
+    "Type": "Troop",
+    "Role": "Melee DPS / Assassin",
+    "Counters": [
+      "Swarm distractions",
+      "Air units out of reach",
+      "Control placement (tornado/kiting)"
+    ],
+    "Elixir Cost": 1.0
+  },
+  {
+    "Name": "Sparky",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 6.0
+  },
+  {
+    "Name": "Spear Goblins",
+    "Type": "Troop",
+    "Role": "Ranged Support / Anti-Air",
+    "Counters": [
+      "Spell value (Fireball/Poison)",
+      "Assassins (Miner/Bandit)",
+      "Split-lane pressure"
+    ],
+    "Elixir Cost": 2.0
+  },
+  {
+    "Name": "Three Musketeers",
+    "Type": "Troop",
+    "Role": "Ranged Support / Anti-Air",
+    "Counters": [
+      "Spell value (Fireball/Poison)",
+      "Assassins (Miner/Bandit)",
+      "Split-lane pressure"
+    ],
+    "Elixir Cost": 9.0
+  },
+  {
+    "Name": "Valkyrie",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Wall Breakers",
+    "Type": "Troop",
+    "Role": "Win Condition - Building Targeting (Ground)",
+    "Counters": [
+      "Pull with defensive buildings",
+      "High single-target DPS (Mini P.E.K.K.A/Infern0)",
+      "Cheap swarms for distraction"
+    ],
+    "Elixir Cost": 2.0
+  },
+  {
+    "Name": "Witch",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Wizard",
+    "Type": "Troop",
+    "Role": "Splash Control",
+    "Counters": [
+      "Snipe with ranged units",
+      "Lightning/Fireball",
+      "Spread deployments"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Zappies",
+    "Type": "Troop",
+    "Role": "Support / Utility",
+    "Counters": [
+      "Trade efficiently",
+      "Spell chip when clumped",
+      "Opposite lane pressure"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Barbarian Hut",
+    "Type": "Building",
+    "Role": "Spawner Building",
+    "Counters": [
+      "Spell value (Poison/Fireball)",
+      "Opposite-lane pressure",
+      "Bridge blocks to soak spawns"
+    ],
+    "Elixir Cost": 6.0
+  },
+  {
+    "Name": "Bomb Tower",
+    "Type": "Building",
+    "Role": "Defensive Building / Ground Pull",
+    "Counters": [
+      "Earthquake or Lightning",
+      "Air offense",
+      "Split pressure to drain lifetime"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Cannon",
+    "Type": "Building",
+    "Role": "Defensive Building / Ground Pull",
+    "Counters": [
+      "Earthquake or Lightning",
+      "Air offense",
+      "Split pressure to drain lifetime"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Furnace",
+    "Type": "Building",
+    "Role": "Defensive Building / Ground Pull",
+    "Counters": [
+      "Earthquake or Lightning",
+      "Air offense",
+      "Split pressure to drain lifetime"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Goblin Hut",
+    "Type": "Building",
+    "Role": "Spawner Building",
+    "Counters": [
+      "Spell value (Poison/Fireball)",
+      "Opposite-lane pressure",
+      "Bridge blocks to soak spawns"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Inferno Tower",
+    "Type": "Building",
+    "Role": "Defensive Building / Anti-Air",
+    "Counters": [
+      "Spell removal (Fireball/Lightning)",
+      "Earthquake pressure",
+      "Overwhelm with split attacks"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Mortar",
+    "Type": "Building",
+    "Role": "Siege Building / Win Condition",
+    "Counters": [
+      "Tank at the bridge",
+      "Spell pressure (Fireball/Rocket)",
+      "Earthquake or Miner to break anchor"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Tesla",
+    "Type": "Building",
+    "Role": "Defensive Building / Anti-Air",
+    "Counters": [
+      "Spell removal (Fireball/Lightning)",
+      "Earthquake pressure",
+      "Overwhelm with split attacks"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Tombstone",
+    "Type": "Building",
+    "Role": "Spawner Building",
+    "Counters": [
+      "Spell value (Poison/Fireball)",
+      "Opposite-lane pressure",
+      "Bridge blocks to soak spawns"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Clone",
+    "Type": "Spell",
+    "Role": "Spell - Buff / Debuff",
+    "Counters": [
+      "Reset effects / knockback",
+      "Disengage during buff window",
+      "Spell denial on key troops"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Earthquake",
+    "Type": "Spell",
+    "Role": "Spell - Buff / Debuff",
+    "Counters": [
+      "Reset effects / knockback",
+      "Disengage during buff window",
+      "Spell denial on key troops"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Freeze",
+    "Type": "Spell",
+    "Role": "Spell - Buff / Debuff",
+    "Counters": [
+      "Reset effects / knockback",
+      "Disengage during buff window",
+      "Spell denial on key troops"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Graveyard",
+    "Type": "Spell",
+    "Role": "Spell - Summon",
+    "Counters": [
+      "Timed spells (Poison/Log)",
+      "Splash defenders",
+      "Pressure elsewhere to split elixir"
+    ],
+    "Elixir Cost": 5.0
+  },
+  {
+    "Name": "Lightning",
+    "Type": "Spell",
+    "Role": "Spell - Area Control",
+    "Counters": [
+      "Avoid stacking",
+      "Pressure opposite lane",
+      "Clean up with fast units"
+    ],
+    "Elixir Cost": 6.0
+  },
+  {
+    "Name": "Poison",
+    "Type": "Spell",
+    "Role": "Spell - Buff / Debuff",
+    "Counters": [
+      "Reset effects / knockback",
+      "Disengage during buff window",
+      "Spell denial on key troops"
+    ],
+    "Elixir Cost": 4.0
+  },
+  {
+    "Name": "Rage",
+    "Type": "Spell",
+    "Role": "Spell - Buff / Debuff",
+    "Counters": [
+      "Reset effects / knockback",
+      "Disengage during buff window",
+      "Spell denial on key troops"
+    ],
+    "Elixir Cost": 2.0
+  },
+  {
+    "Name": "Tornado",
+    "Type": "Spell",
+    "Role": "Spell - Buff / Debuff",
+    "Counters": [
+      "Reset effects / knockback",
+      "Disengage during buff window",
+      "Spell denial on key troops"
+    ],
+    "Elixir Cost": 3.0
+  },
+  {
+    "Name": "Zap",
+    "Type": "Spell",
+    "Role": "Spell - Buff / Debuff",
+    "Counters": [
+      "Reset effects / knockback",
+      "Disengage during buff window",
+      "Spell denial on key troops"
+    ],
+    "Elixir Cost": 2.0
+  }
+]
